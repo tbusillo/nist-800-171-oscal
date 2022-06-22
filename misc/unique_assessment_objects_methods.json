@@ -1,0 +1,2142 @@
+[
+  {
+    "assessmentObject": "Personnel with account management responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "System or network administrators",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with information security responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with access enforcement responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "System developers",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for defining divisions of responsibility and separation of duties",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for defining least privileges necessary to accomplish specified tasks",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for defining least privileges necessary to accomplish specified organizational tasks",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibility for providing legal advice",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing remote access connections",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing wireless access connections",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel using mobile devices to access organizational systems",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with access control responsibilities for mobile devices",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for defining terms and conditions for use of external systems to access organizational systems",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for restricting or prohibiting use of organization-controlled storage devices on external systems",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing publicly accessible information posted on organizational systems",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for security awareness training",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel composing the general system user community",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for role-based awareness training",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for role-based security training",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with assigned system security roles and responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel representing the general system user community",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel that participate in security awareness training",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for basic security awareness training",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with audit and accountability responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with audit review, analysis and reporting responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with audit record review, analysis, and reporting responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with audit record reduction and report generation responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with configuration management responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for establishing the system inventory",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for updating the system inventory",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with security configuration management responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with configuration change control responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Members of change control board or similar",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibility for conducting security impact analysis",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with logical access control responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with physical access control responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for reviewing programs, functions, ports, protocols, and services on the system",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for identifying software authorized or not authorized to execute on the system",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for governing user-installed software",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel operating, using, or maintaining the system",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel monitoring compliance with user-installed software policy",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system operations responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with authenticator management responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with identifier management responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident handling responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with contingency planning responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident response training and operational responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident response assistance and support responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with access to incident response support and assistance capability",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident monitoring responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident reporting responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel who have or should have reported incidents",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel (authorities) to whom incident information is to be reported",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident response testing responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for testing plans related to incident response",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system maintenance responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel responsible for media sanitization",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system media protection responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system media protection and storage responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with media sanitization responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system media protection and marking responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system media transport responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system media use responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system backup responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with personnel security responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with physical access authorization responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with physical access to system facility",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with physical access monitoring responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident response responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel approving use of alternate work sites",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel using alternate work sites",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel assessing controls at alternate work sites",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with risk assessment responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with risk assessment, security assessment and vulnerability scanning responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with vulnerability scan analysis and remediation responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with vulnerability scan analysis responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with vulnerability remediation responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with security assessment responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with plan of action development and implementation responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with security planning and system security plan implementation responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "System developer",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with boundary protection responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibility for determining information system security requirements",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with information system design, development, implementation, and modification responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for cryptographic key establishment and management",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for cryptographic protection",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing collaborative computing devices",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing mobile code",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing voip",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Access control policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing account management",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System security plan",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System design documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System configuration settings and associated documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of active system accounts and the name of the individual associated with each account",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Notifications or records of recently transferred, separated, or terminated employees",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of conditions for group and role membership",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of recently disabled system accounts along with the name of the individual associated with each account",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Access authorization records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Account management compliance reviews",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System monitoring records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System audit logs and records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of devices and systems authorized to connect to organizational systems",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Other relevant documents or records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing access enforcement",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of approved authorizations including remote access authorizations",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Information flow control policies",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing information flow enforcement",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of information flow authorizations",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System baseline configuration",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing divisions of responsibility and separation of duties",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of divisions of responsibility and separation of duties",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System access authorizations",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System monitoring/audit records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing least privilege",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of security functions (deployed in hardware, software, and firmware) and security-relevant information for which access is to be explicitly authorized",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of system-generated privileged accounts",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of system administration personnel",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of system-generated security functions assigned to system accounts or roles",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of privileged functions and associated user account assignments",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing unsuccessful logon attempts",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Privacy and security policies, procedures addressing system use notification",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Documented approval of system use notification messages or banners",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "User acknowledgements of notification message or banner",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System use notification messages",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing session lock",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing identification and authentication",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing session termination",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of conditions or trigger events requiring session disconnect",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing remote access implementation and usage (including restrictions)",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Configuration management plan",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Remote access authorizations",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing remote access to the system",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Cryptographic mechanisms and associated configuration documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of all managed network access control points",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing wireless access implementation and usage (including restrictions)",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Wireless access authorizations",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing wireless implementation and usage (including restrictions)",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Authorizations for mobile device connections to organizational systems",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing access control for mobile device usage (including restrictions)",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing access control for mobile devices",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Encryption mechanisms and associated configuration documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing the use of external systems",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Terms and conditions for external systems",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of applications accessible from external systems",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System connection or processing agreements",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Account management documents",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing publicly accessible content",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of users authorized to post publicly accessible content on organizational systems",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Training materials and/or records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Records of publicly accessible information reviews",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Records of response to nonpublic information on public websites",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security awareness training records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security awareness and training policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing security awareness training implementation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Relevant codes of federal regulations",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security awareness training curriculum",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security awareness training materials",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Training records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing security training implementation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Codes of federal regulations",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security training curriculum",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security training materials",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Insider threat policy and procedures",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Audit and accountability policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing auditable events",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing control of audit records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing audit record generation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System auditable events",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System incident reports",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing audit records and event types",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing audit review, analysis, and reporting",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Reports of audit findings",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System events",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of organization-defined event types to be logged",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Reviewed and updated records of logged event types",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing response to audit logging processing failures",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of personnel to be notified in case of an audit logging processing failure",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing audit record review, analysis, and reporting",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing investigation of and response to suspicious activities",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System audit logs and records across different repositories",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing audit record reduction and report generation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Audit record reduction, review, analysis, and reporting tools",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing time stamp generation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Access control policy and procedures",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing protection of audit information",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System configuration settings and associated documentation, system audit logs and records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Audit logging tools",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Access authorizations",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System-generated list of privileged users with access to management of audit logging functionality",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Access control list",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Configuration management policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing the baseline configuration of the system",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing system inventory",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System inventory records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Inventory review and update records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Enterprise architecture documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System architecture and configuration documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Change control records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System component installation records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System component removal records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Baseline configuration",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing configuration settings for the system",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security configuration checklists",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Evidence supporting approved deviations from established configuration settings",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing system configuration change control",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Change control audit and review reports",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Agenda/minutes from configuration change control oversight meetings",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing security impact analysis for system changes",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security impact analysis documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Analysis tools and associated outputs",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing access restrictions for changes to the system",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Logical access approvals",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Physical access approvals",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Access credentials",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing least functionality in the system",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Specifications for preventing software program execution",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Documented reviews of programs, functions, ports, protocols, and/or services",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of software programs not authorized to execute on the system",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of software programs authorized to execute on the system",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Review and update records associated with list of authorized or unauthorized software programs",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing user installed software",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of rules governing user-installed software",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Continuous monitoring strategy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Identification and authentication policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing user identification and authentication",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System security plan, system design documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of system accounts",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing authenticator management",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of system authenticator types",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Change control records associated with managing system authenticators",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of privileged system accounts",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing identifier management",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of identifiers generated from physical access control devices",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Password policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Password configurations and associated documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing authenticator feedback",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Incident response policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Contingency planning policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing incident handling",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing incident response assistance",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Incident response plan",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Contingency plan",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing incident response training",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Incident response training curriculum",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Incident response training materials",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Incident response training records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing incident monitoring",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Incident response records and documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing incident reporting",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Incident reporting records and documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing incident response testing",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing contingency plan testing",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Incident response testing material",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Incident response test results",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Incident response test plan",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System maintenance policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing controlled system maintenance",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Maintenance records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Manufacturer or vendor maintenance specifications",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Equipment sanitization records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Media sanitization records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing system maintenance tools and media",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System maintenance tools and associated documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Maintenance tool inspection records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing system maintenance tools",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing nonlocal system maintenance",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Diagnostic records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing maintenance personnel",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Service provider contracts",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Service-level agreements",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of authorized personnel",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Access control records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System media protection policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing media storage",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing media access restrictions",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Physical and environmental protection policy and procedures",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Media storage facilities",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System media",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Designated controlled areas",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing media sanitization and disposal",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Applicable standards and policies addressing media sanitization",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing media marking",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of system media marking security attributes",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing media transport",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System media transport records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System use policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing media usage restrictions",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Rules of behavior",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing system backup",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security plan",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Backup storage locations",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System backup logs or records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Personnel security policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing personnel screening",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Records of screened personnel",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing personnel transfer and termination",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Records of personnel transfer and termination actions",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Records of terminated or revoked authenticators and credentials",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Records of exit interviews",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Physical and environmental protection policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing physical access authorizations",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Authorized personnel access list",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Authorization credentials",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Physical access list reviews",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Physical access termination records and associated documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing physical access monitoring",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Physical access logs or records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Physical access monitoring records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Physical access log reviews",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing physical access control",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Physical access control logs or records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Inventory records of physical access control devices",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System entry and exit points",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Records of key and lock combination changes",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Storage locations for physical access control devices",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Physical access control devices",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of security safeguards controlling access to designated publicly accessible areas within facility",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Records of key inventory records of physical access control devices",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing alternate work sites for personnel",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of safeguards required for alternate work sites",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Assessments of safeguards at alternate work sites",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Risk assessment policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security planning policy and procedures",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing organizational risk assessments",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Risk assessment",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Risk assessment results",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Risk assessment reviews",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Risk assessment updates",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing vulnerability scanning",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security assessment report",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Vulnerability scanning tools and associated configuration documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Vulnerability scanning results",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Patch and vulnerability management records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security assessment and authorization policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing security assessment planning",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing security assessments",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security assessment plan",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing plan of action",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security assessment evidence",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Plan of action",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security planning policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Organizational procedures addressing system security plan development and implementation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing system security plan reviews and updates",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Records of system security plan reviews and updates",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing system security plan development and implementation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System and communications protection policy",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing boundary protection",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of key internal boundaries of the system",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Boundary protection hardware and software",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Enterprise security architecture documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing security engineering principles used in the specification, design, development, implementation, and modification of the system",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security architecture documentation",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Security requirements and specifications for the system",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing application partitioning",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System hardware and software",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "System architecture",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing transmission confidentiality and integrity",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing network disconnect",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing cryptographic key establishment and management",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Cryptographic mechanisms",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing cryptographic protection",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Cryptographic module validation certificates",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of fips-validated cryptographic modules",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing collaborative computing",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing mobile code",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Mobile code usage restrictions, mobile code implementation policy and procedures",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of acceptable mobile code and mobile code technologies",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of unacceptable mobile code and mobile technologies",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Authorization records",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing voip",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Voip usage restrictions",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Voip implementation guidance",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing session authenticity",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Procedures addressing protection of information at rest",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "List of information at rest requiring confidentiality protections",
+    "assessmentMethod": "Examine"
+  },
+  {
+    "assessmentObject": "Organizational processes for managing system accounts",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms for implementing account management",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing access control policy",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing information flow enforcement policy",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing separation of duties policy",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing least privilege functions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms prohibiting privileged access to the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing least privilege functions for non-privileged users",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms auditing the execution of privileged functions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing access control policy for unsuccessful logon attempts",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing system use notification",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing access control policy for session lock",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing user session termination",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Remote access management capability for the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Cryptographic mechanisms protecting remote access sessions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms routing all remote accesses through managed network access control points",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing remote access management",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Wireless access management capability for the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing wireless access protections to the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Access control capability authorizing mobile device connections to organizational systems",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Encryption mechanisms protecting confidentiality of information on mobile devices",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing terms and conditions on use of external systems",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing restrictions on use of portable storage devices",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing management of publicly accessible content",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms managing security awareness training",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms managing role-based security training",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms managing insider threat training",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing system audit logging",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting review and update of logged event types",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing system response to audit logging processing failures",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting analysis and correlation of audit records",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms integrating audit review, analysis and reporting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Audit record reduction and report generation capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing time stamp generation",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing internal information system clock synchronization",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing audit information protection",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms managing access to audit logging functionality",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for managing baseline configurations",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting configuration control of the baseline configuration",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for developing and documenting an inventory of system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for updating inventory of system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing the system inventory",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing updating of the system inventory",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for managing configuration settings",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms that implement, monitor, and/or control system configuration settings",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms that identify and/or document deviations from established configuration settings",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Processes for managing baseline configurations",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting configuration control of baseline configurations",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for configuration change control",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms that implement configuration change control",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for security impact analysis",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for managing access restrictions associated with changes to the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting, implementing, and enforcing access restrictions associated with changes to the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes prohibiting or restricting functions, ports, protocols, or services",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing restrictions or prohibition of functions, ports, protocols, or services",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for reviewing and disabling nonessential programs, functions, ports, protocols, or services",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing review and handling of nonessential programs, functions, ports, protocols, or services",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes preventing program execution on the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for software program usage and restrictions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing software program usage and restrictions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms preventing program execution on the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational process for identifying, reviewing, and updating programs authorized or not authorized to execute on the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Process for implementing blacklisting or whitelisting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing blacklisting or whitelisting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes governing user-installed software on the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms enforcing rules or methods for governing the installation of software by users",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms monitoring policy compliance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for uniquely identifying and authenticating users",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing identification and authentication capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing authenticator management capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing multifactor authentication capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing identification and authentication capability or replay resistant authentication mechanisms",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing identifier management",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing password-based authenticator management capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing the obscuring of feedback of authentication information during authentication",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Incident-handling capability for the organization",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for incident response assistance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing incident response assistance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Incident monitoring capability for the organization",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing tracking and documenting of system security incidents",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for incident reporting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing incident reporting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms and processes for incident response",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for scheduling, performing, documenting, reviewing, approving, and monitoring maintenance and repairs for systems",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for sanitizing system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing controlled maintenance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing sanitization of system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for approving, controlling, and monitoring maintenance tools",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing approval, control, and monitoring of maintenance tools",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for inspecting maintenance tools",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing inspection of maintenance tools",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational process for inspecting media for malicious code",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing inspection of media used for maintenance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for managing nonlocal maintenance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing, supporting, and managing nonlocal maintenance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms for strong authentication of nonlocal maintenance diagnostic sessions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms for terminating nonlocal maintenance sessions and network connections",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for authorizing and managing maintenance personnel",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing authorization of maintenance personnel",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for restricting information media",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing media access restrictions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for storing media",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing secure media storage and media protection",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for media sanitization",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing media sanitization",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for marking information media",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing media marking",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing media storage and media protection",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Cryptographic mechanisms protecting information on digital media during transportation outside controlled areas",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for media use",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms restricting or prohibiting use of system media on systems or system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms prohibiting use of media on systems or system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for conducting system backups",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing system backups",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for personnel screening",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for personnel transfer and termination",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing personnel transfer and termination notifications",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms for disabling system access and revoking authenticators",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for physical access authorizations",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing physical access authorizations",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for monitoring physical access",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing physical access monitoring",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing the review of physical access logs",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for physical access control",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing physical access control",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Physical access control devices",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for security at alternate work sites",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting alternate work sites",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Safeguards employed at alternate work sites",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Means of communications between personnel at alternate work sites and security personnel",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for risk assessment",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or for conducting, documenting, reviewing, disseminating, and updating the risk assessment",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for vulnerability scanning, analysis, remediation, and information sharing",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing vulnerability scanning, analysis, remediation, and information sharing",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting security assessment, security assessment plan development, and security assessment reporting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms for developing, implementing, and maintaining plan of action",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for system security plan development, review, update, and approval",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting the system security plan",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing boundary protection capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Processes for applying security engineering principles in system specification, design, development, implementation, and modification",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Automated mechanisms supporting the application of security engineering principles in information system specification, design, development, implementation, and modification",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Separation of user functionality from system management functionality",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing traffic management at managed interfaces",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or restricting non-remote connections",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Cryptographic mechanisms or mechanisms supporting or implementing transmission confidentiality",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for defining and implementing alternative physical safeguards",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing network disconnect capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing cryptographic key establishment and management",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing cryptographic protection",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing management of remote activation of collaborative computing devices",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms providing an indication of use of collaborative computing devices",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational process for controlling, authorizing, monitoring, and restricting mobile code",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing the management of mobile code",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing the monitoring of mobile code",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational process for authorizing, monitoring, and controlling voip",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing authorizing, monitoring, and controlling voip",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing session authenticity",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing confidentiality protections for information at rest",
+    "assessmentMethod": "Test"
+  }
+]

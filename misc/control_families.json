@@ -1,0 +1,112 @@
+{
+  "families": [
+    {
+      "internal_id": "3.1",
+      "name": "Access Control",
+      "digraph": "AC",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.2",
+      "name": "Awareness and Training",
+      "digraph": "AT",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.3",
+      "name": "Audit and Accountability",
+      "digraph": "AU",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.4",
+      "name": "Configuration Management",
+      "digraph": "CM",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.5",
+      "name": "Identification and Authentication",
+      "digraph": "IA",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.6",
+      "name": "Incident Response",
+      "digraph": "IR",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.7",
+      "name": "Maintenance",
+      "digraph": "MA",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.8",
+      "name": "Media Protection",
+      "digraph": "MP",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.9",
+      "name": "Personnel Security",
+      "digraph": "PS",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.10",
+      "name": "Physical Protection",
+      "digraph": "PE",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.11",
+      "name": "Risk Assessment",
+      "digraph": "RA",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.12",
+      "name": "Security Assessment",
+      "digraph": "SA",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.13",
+      "name": "System and Comms Protection",
+      "digraph": "SC",
+      "is80053": false
+    },
+    {
+      "internal_id": "3.14",
+      "name": "System and Information Integrity",
+      "digraph": "SI",
+      "is80053": false
+    },
+    {
+      "internal_id": "53.ca",
+      "name": "Security Assessment and Authorization",
+      "digraph": "CA",
+      "is80053": true
+    },
+    {
+      "internal_id": "53.cp",
+      "name": "Contingency Planning",
+      "digraph": "CP",
+      "is80053": true
+    },
+    {
+      "internal_id": "53.pl",
+      "name": "Planning",
+      "digraph": "PL",
+      "is80053": true
+    },
+    {
+      "internal_id": "53.pm",
+      "name": "Program Management",
+      "digraph": "PM",
+      "is80053": true
+    }
+  ]
+}

@@ -1,0 +1,1544 @@
+{
+  "objectives": [
+    {
+      "internal_id": "3.1.1.a",
+      "objective": "authorized users are identified.",
+      "control_internal_id": "3.1.1"
+    },
+    {
+      "internal_id": "3.1.1.b",
+      "objective": "processes acting on behalf of authorized users are identified.",
+      "control_internal_id": "3.1.1"
+    },
+    {
+      "internal_id": "3.1.1.c",
+      "objective": "devices (and other systems) authorized to connect to the system are identified.",
+      "control_internal_id": "3.1.1"
+    },
+    {
+      "internal_id": "3.1.1.d",
+      "objective": "system access is limited to authorized users.",
+      "control_internal_id": "3.1.1"
+    },
+    {
+      "internal_id": "3.1.1.e",
+      "objective": "system access is limited to processes acting on behalf of authorized users.",
+      "control_internal_id": "3.1.1"
+    },
+    {
+      "internal_id": "3.1.1.f",
+      "objective": "system access is limited to authorized devices (including other systems).",
+      "control_internal_id": "3.1.1"
+    },
+    {
+      "internal_id": "3.1.2.a",
+      "objective": "the types of transactions and functions that authorized users are permitted to execute are defined.",
+      "control_internal_id": "3.1.2"
+    },
+    {
+      "internal_id": "3.1.2.b",
+      "objective": "system access is limited to the defined types of transactions and functions for authorized users.",
+      "control_internal_id": "3.1.2"
+    },
+    {
+      "internal_id": "3.1.3.a",
+      "objective": "information flow control policies are defined.",
+      "control_internal_id": "3.1.3"
+    },
+    {
+      "internal_id": "3.1.3.b",
+      "objective": "methods and enforcement mechanisms for controlling the flow of CUI are defined.",
+      "control_internal_id": "3.1.3"
+    },
+    {
+      "internal_id": "3.1.3.c",
+      "objective": "designated sources and destinations (e.g., networks, individuals, and devices) for CUI within the system and between interconnected systems are identified.",
+      "control_internal_id": "3.1.3"
+    },
+    {
+      "internal_id": "3.1.3.d",
+      "objective": "authorizations for controlling the flow of CUI are defined.",
+      "control_internal_id": "3.1.3"
+    },
+    {
+      "internal_id": "3.1.3.e",
+      "objective": "approved authorizations for controlling the flow of CUI are enforced.",
+      "control_internal_id": "3.1.3"
+    },
+    {
+      "internal_id": "3.1.4.a",
+      "objective": "the duties of individuals requiring separation are defined.",
+      "control_internal_id": "3.1.4"
+    },
+    {
+      "internal_id": "3.1.4.b",
+      "objective": "responsibilities for duties that require separation are assigned to separate individuals.",
+      "control_internal_id": "3.1.4"
+    },
+    {
+      "internal_id": "3.1.4.c",
+      "objective": "access privileges that enable individuals to exercise the duties that require separation are granted to separate individuals.",
+      "control_internal_id": "3.1.4"
+    },
+    {
+      "internal_id": "3.1.5.a",
+      "objective": "privileged accounts are identified.",
+      "control_internal_id": "3.1.5"
+    },
+    {
+      "internal_id": "3.1.5.b",
+      "objective": "access to privileged accounts is authorized in accordance with the principle of least privilege.",
+      "control_internal_id": "3.1.5"
+    },
+    {
+      "internal_id": "3.1.5.c",
+      "objective": "security functions are identified.",
+      "control_internal_id": "3.1.5"
+    },
+    {
+      "internal_id": "3.1.5.d",
+      "objective": "access to security functions is authorized in accordance with the principle of least privilege.",
+      "control_internal_id": "3.1.5"
+    },
+    {
+      "internal_id": "3.1.6.a",
+      "objective": "nonsecurity functions are identified.",
+      "control_internal_id": "3.1.6"
+    },
+    {
+      "internal_id": "3.1.6.b",
+      "objective": "users are required to use non-privileged accounts or roles when accessing nonsecurity functions.",
+      "control_internal_id": "3.1.6"
+    },
+    {
+      "internal_id": "3.1.7.a",
+      "objective": "privileged functions are defined.",
+      "control_internal_id": "3.1.7"
+    },
+    {
+      "internal_id": "3.1.7.b",
+      "objective": "non-privileged users are defined.",
+      "control_internal_id": "3.1.7"
+    },
+    {
+      "internal_id": "3.1.7.c",
+      "objective": "non-privileged users are prevented from executing privileged functions.",
+      "control_internal_id": "3.1.7"
+    },
+    {
+      "internal_id": "3.1.7.d",
+      "objective": "the execution of privileged functions is captured in audit logs.",
+      "control_internal_id": "3.1.7"
+    },
+    {
+      "internal_id": "3.1.8.a",
+      "objective": "the means of limiting unsuccessful logon attempts is defined.",
+      "control_internal_id": "3.1.8"
+    },
+    {
+      "internal_id": "3.1.8.b",
+      "objective": "the defined means of limiting unsuccessful logon attempts is implemented.",
+      "control_internal_id": "3.1.8"
+    },
+    {
+      "internal_id": "3.1.9.a",
+      "objective": "privacy and security notices required by CUI-specified rules are identified, consistent, and associated with the specific CUI category.",
+      "control_internal_id": "3.1.9"
+    },
+    {
+      "internal_id": "3.1.9.b",
+      "objective": "privacy and security notices are displayed.",
+      "control_internal_id": "3.1.9"
+    },
+    {
+      "internal_id": "3.1.10.a",
+      "objective": "the period of inactivity after which the system initiates a session lock is defined.",
+      "control_internal_id": "3.1.10"
+    },
+    {
+      "internal_id": "3.1.10.b",
+      "objective": "access to the system and viewing of data is prevented by initiating a session lock after the defined period of inactivity.",
+      "control_internal_id": "3.1.10"
+    },
+    {
+      "internal_id": "3.1.10.c",
+      "objective": "previously visible information is concealed via a pattern-hiding display after the defined period of inactivity.",
+      "control_internal_id": "3.1.10"
+    },
+    {
+      "internal_id": "3.1.11.a",
+      "objective": "conditions requiring a user session to terminate are defined.",
+      "control_internal_id": "3.1.11"
+    },
+    {
+      "internal_id": "3.1.11.b",
+      "objective": "a user session is automatically terminated after any of the defined conditions occur.",
+      "control_internal_id": "3.1.11"
+    },
+    {
+      "internal_id": "3.1.12.a",
+      "objective": "remote access sessions are permitted.",
+      "control_internal_id": "3.1.12"
+    },
+    {
+      "internal_id": "3.1.12.b",
+      "objective": "the types of permitted remote access are identified.",
+      "control_internal_id": "3.1.12"
+    },
+    {
+      "internal_id": "3.1.12.c",
+      "objective": "remote access sessions are controlled.",
+      "control_internal_id": "3.1.12"
+    },
+    {
+      "internal_id": "3.1.12.d",
+      "objective": "remote access sessions are monitored.",
+      "control_internal_id": "3.1.12"
+    },
+    {
+      "internal_id": "3.1.13.a",
+      "objective": "cryptographic mechanisms to protect the confidentiality of remote access sessions are identified.",
+      "control_internal_id": "3.1.13"
+    },
+    {
+      "internal_id": "3.1.13.b",
+      "objective": "cryptographic mechanisms to protect the confidentiality of remote access sessions are implemented.",
+      "control_internal_id": "3.1.13"
+    },
+    {
+      "internal_id": "3.1.14.a",
+      "objective": "managed access control points are identified and implemented.",
+      "control_internal_id": "3.1.14"
+    },
+    {
+      "internal_id": "3.1.14.b",
+      "objective": "remote access is routed through managed network access control points.",
+      "control_internal_id": "3.1.14"
+    },
+    {
+      "internal_id": "3.1.15.a",
+      "objective": "privileged commands authorized for remote execution are identified.",
+      "control_internal_id": "3.1.15"
+    },
+    {
+      "internal_id": "3.1.15.b",
+      "objective": "security-relevant information authorized to be accessed remotely is identified.",
+      "control_internal_id": "3.1.15"
+    },
+    {
+      "internal_id": "3.1.15.c",
+      "objective": "the execution of the identified privileged commands via remote access is authorized.",
+      "control_internal_id": "3.1.15"
+    },
+    {
+      "internal_id": "3.1.15.d",
+      "objective": "access to the identified security-relevant information via remote access is authorized.",
+      "control_internal_id": "3.1.15"
+    },
+    {
+      "internal_id": "3.1.16.a",
+      "objective": "wireless access points are identified.",
+      "control_internal_id": "3.1.16"
+    },
+    {
+      "internal_id": "3.1.16.b",
+      "objective": "wireless access is authorized prior to allowing such connections.",
+      "control_internal_id": "3.1.16"
+    },
+    {
+      "internal_id": "3.1.17.a",
+      "objective": "wireless access to the system is protected using authentication.",
+      "control_internal_id": "3.1.17"
+    },
+    {
+      "internal_id": "3.1.17.b",
+      "objective": "wireless access to the system is protected using encryption.",
+      "control_internal_id": "3.1.17"
+    },
+    {
+      "internal_id": "3.1.18.a",
+      "objective": "mobile devices that process, store, or transmit CUI are identified.",
+      "control_internal_id": "3.1.18"
+    },
+    {
+      "internal_id": "3.1.18.b",
+      "objective": "mobile device connections are authorized.",
+      "control_internal_id": "3.1.18"
+    },
+    {
+      "internal_id": "3.1.18.c",
+      "objective": "mobile device connections are monitored and logged.",
+      "control_internal_id": "3.1.18"
+    },
+    {
+      "internal_id": "3.1.19.a",
+      "objective": "mobile devices and mobile computing platforms that process, store, or transmit CUI are identified.",
+      "control_internal_id": "3.1.19"
+    },
+    {
+      "internal_id": "3.1.19.b",
+      "objective": "encryption is employed to protect CUI on identified mobile devices and mobile computing platforms.",
+      "control_internal_id": "3.1.19"
+    },
+    {
+      "internal_id": "3.1.20.a",
+      "objective": "connections to external systems are identified.",
+      "control_internal_id": "3.1.20"
+    },
+    {
+      "internal_id": "3.1.20.b",
+      "objective": "the use of external systems is identified.",
+      "control_internal_id": "3.1.20"
+    },
+    {
+      "internal_id": "3.1.20.c",
+      "objective": "connections to external systems are verified.",
+      "control_internal_id": "3.1.20"
+    },
+    {
+      "internal_id": "3.1.20.d",
+      "objective": "the use of external systems is verified.",
+      "control_internal_id": "3.1.20"
+    },
+    {
+      "internal_id": "3.1.20.e",
+      "objective": "connections to external systems are controlled/limited.",
+      "control_internal_id": "3.1.20"
+    },
+    {
+      "internal_id": "3.1.20.f",
+      "objective": "the use of external systems is controlled/limited.",
+      "control_internal_id": "3.1.20"
+    },
+    {
+      "internal_id": "3.1.21.a",
+      "objective": "the use of portable storage devices containing CUI on external systems is identified and documented.",
+      "control_internal_id": "3.1.21"
+    },
+    {
+      "internal_id": "3.1.21.b",
+      "objective": "limits on the use of portable storage devices containing CUI on external systems are defined.",
+      "control_internal_id": "3.1.21"
+    },
+    {
+      "internal_id": "3.1.21.c",
+      "objective": "the use of portable storage devices containing CUI on external systems is limited as defined.",
+      "control_internal_id": "3.1.21"
+    },
+    {
+      "internal_id": "3.1.22.a",
+      "objective": "individuals authorized to post or process information on publicly accessible systems are identified.",
+      "control_internal_id": "3.1.22"
+    },
+    {
+      "internal_id": "3.1.22.b",
+      "objective": "procedures to ensure CUI is not posted or processed on publicly accessible systems are identified.",
+      "control_internal_id": "3.1.22"
+    },
+    {
+      "internal_id": "3.1.22.c",
+      "objective": "a review process is in place prior to posting of any content to publicly accessible systems.",
+      "control_internal_id": "3.1.22"
+    },
+    {
+      "internal_id": "3.1.22.d",
+      "objective": "content on publicly accessible systems is reviewed to ensure that it does not include CUI.",
+      "control_internal_id": "3.1.22"
+    },
+    {
+      "internal_id": "3.1.22.e",
+      "objective": "mechanisms are in place to remove and address improper posting of CUI.",
+      "control_internal_id": "3.1.22"
+    },
+    {
+      "internal_id": "3.2.1.a",
+      "objective": "security risks associated with organizational activities involving CUI are identified.",
+      "control_internal_id": "3.2.1"
+    },
+    {
+      "internal_id": "3.2.1.b",
+      "objective": "policies, standards, and procedures related to the security of the system are identified.",
+      "control_internal_id": "3.2.1"
+    },
+    {
+      "internal_id": "3.2.1.c",
+      "objective": "managers, systems administrators, and users of the system are made aware of the security risks associated with their activities.",
+      "control_internal_id": "3.2.1"
+    },
+    {
+      "internal_id": "3.2.1.d",
+      "objective": "managers, systems administrators, and users of the system are made aware of the applicable policies, standards, and procedures related to the security of the system.",
+      "control_internal_id": "3.2.1"
+    },
+    {
+      "internal_id": "3.2.2.a",
+      "objective": "information security-related duties, roles, and responsibilities are defined.",
+      "control_internal_id": "3.2.2"
+    },
+    {
+      "internal_id": "3.2.2.b",
+      "objective": "information security-related duties, roles, and responsibilities are assigned to designated personnel.",
+      "control_internal_id": "3.2.2"
+    },
+    {
+      "internal_id": "3.2.2.c",
+      "objective": "personnel are adequately trained to carry out their assigned information security-related duties, roles, and responsibilities.",
+      "control_internal_id": "3.2.2"
+    },
+    {
+      "internal_id": "3.2.3.a",
+      "objective": "potential indicators associated with insider threats are identified.",
+      "control_internal_id": "3.2.3"
+    },
+    {
+      "internal_id": "3.2.3.b",
+      "objective": "security awareness training on recognizing and reporting potential indicators of insider threat is provided to managers and employees.",
+      "control_internal_id": "3.2.3"
+    },
+    {
+      "internal_id": "3.3.1.a",
+      "objective": "audit logs needed (i.e., event types to be logged) to enable the monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity are specified.",
+      "control_internal_id": "3.3.1"
+    },
+    {
+      "internal_id": "3.3.1.b",
+      "objective": "the content of audit records needed to support monitoring, analysis, investigation, and reporting of unlawful or unauthorized system activity is defined.",
+      "control_internal_id": "3.3.1"
+    },
+    {
+      "internal_id": "3.3.1.c",
+      "objective": "audit records are created (generated).",
+      "control_internal_id": "3.3.1"
+    },
+    {
+      "internal_id": "3.3.1.d",
+      "objective": "audit records, once created, contain the defined content.",
+      "control_internal_id": "3.3.1"
+    },
+    {
+      "internal_id": "3.3.1.e",
+      "objective": "retention requirements for audit records are defined.",
+      "control_internal_id": "3.3.1"
+    },
+    {
+      "internal_id": "3.3.1.f",
+      "objective": "audit records are retained as defined.",
+      "control_internal_id": "3.3.1"
+    },
+    {
+      "internal_id": "3.3.2.a",
+      "objective": "the content of the audit records needed to support the ability to uniquely trace users to their actions is defined.",
+      "control_internal_id": "3.3.2"
+    },
+    {
+      "internal_id": "3.3.2.b",
+      "objective": "audit records, once created, contain the defined content.",
+      "control_internal_id": "3.3.2"
+    },
+    {
+      "internal_id": "3.3.3.a",
+      "objective": "a process for determining when to review logged events is defined.",
+      "control_internal_id": "3.3.3"
+    },
+    {
+      "internal_id": "3.3.3.b",
+      "objective": "event types being logged are reviewed in accordance with the defined review process.",
+      "control_internal_id": "3.3.3"
+    },
+    {
+      "internal_id": "3.3.3.c",
+      "objective": "event types being logged are updated based on the review.",
+      "control_internal_id": "3.3.3"
+    },
+    {
+      "internal_id": "3.3.4.a",
+      "objective": "personnel or roles to be alerted in the event of an audit logging process failure are identified.",
+      "control_internal_id": "3.3.4"
+    },
+    {
+      "internal_id": "3.3.4.b",
+      "objective": "types of audit logging process failures for which alert will be generated are defined.",
+      "control_internal_id": "3.3.4"
+    },
+    {
+      "internal_id": "3.3.4.c",
+      "objective": "identified personnel or roles are alerted in the event of an audit logging process failure.",
+      "control_internal_id": "3.3.4"
+    },
+    {
+      "internal_id": "3.3.5.a",
+      "objective": "audit record review, analysis, and reporting processes for investigation and response to indications of unlawful, unauthorized, suspicious, or unusual activity are defined.",
+      "control_internal_id": "3.3.5"
+    },
+    {
+      "internal_id": "3.3.5.b",
+      "objective": "defined audit record review, analysis, and reporting processes are correlated.",
+      "control_internal_id": "3.3.5"
+    },
+    {
+      "internal_id": "3.3.6.a",
+      "objective": "an audit record reduction capability that supports on-demand analysis is provided.",
+      "control_internal_id": "3.3.6"
+    },
+    {
+      "internal_id": "3.3.6.b",
+      "objective": "a report generation capability that supports on-demand reporting is provided.",
+      "control_internal_id": "3.3.6"
+    },
+    {
+      "internal_id": "3.3.7.a",
+      "objective": "internal system clocks are used to generate time stamps for audit records.",
+      "control_internal_id": "3.3.7"
+    },
+    {
+      "internal_id": "3.3.7.b",
+      "objective": "an authoritative source with which to compare and synchronize internal system clocks is specified.",
+      "control_internal_id": "3.3.7"
+    },
+    {
+      "internal_id": "3.3.7.c",
+      "objective": "internal system clocks used to generate time stamps for audit records are compared to and synchronized with the specified authoritative time source.",
+      "control_internal_id": "3.3.7"
+    },
+    {
+      "internal_id": "3.3.8.a",
+      "objective": "audit information is protected from unauthorized access.",
+      "control_internal_id": "3.3.8"
+    },
+    {
+      "internal_id": "3.3.8.b",
+      "objective": "audit information is protected from unauthorized modification.",
+      "control_internal_id": "3.3.8"
+    },
+    {
+      "internal_id": "3.3.8.c",
+      "objective": "audit information is protected from unauthorized deletion.",
+      "control_internal_id": "3.3.8"
+    },
+    {
+      "internal_id": "3.3.8.d",
+      "objective": "audit logging tools are protected from unauthorized access.",
+      "control_internal_id": "3.3.8"
+    },
+    {
+      "internal_id": "3.3.8.e",
+      "objective": "audit logging tools are protected from unauthorized modification.",
+      "control_internal_id": "3.3.8"
+    },
+    {
+      "internal_id": "3.3.8.f",
+      "objective": "audit logging tools are protected from unauthorized deletion.",
+      "control_internal_id": "3.3.8"
+    },
+    {
+      "internal_id": "3.3.9.a",
+      "objective": "a subset of privileged users granted access to manage audit logging functionality is defined.",
+      "control_internal_id": "3.3.9"
+    },
+    {
+      "internal_id": "3.3.9.b",
+      "objective": "management of audit logging functionality is limited to the defined subset of privileged users.",
+      "control_internal_id": "3.3.9"
+    },
+    {
+      "internal_id": "3.4.1.a",
+      "objective": "a baseline configuration is established.",
+      "control_internal_id": "3.4.1"
+    },
+    {
+      "internal_id": "3.4.1.b",
+      "objective": "the baseline configuration includes hardware, software, firmware, and documentation.",
+      "control_internal_id": "3.4.1"
+    },
+    {
+      "internal_id": "3.4.1.c",
+      "objective": "the baseline configuration is maintained (reviewed and updated) throughout the system development life cycle.",
+      "control_internal_id": "3.4.1"
+    },
+    {
+      "internal_id": "3.4.1.d",
+      "objective": "a system inventory is established.",
+      "control_internal_id": "3.4.1"
+    },
+    {
+      "internal_id": "3.4.1.e",
+      "objective": "the system inventory includes hardware, software, firmware, and documentation.",
+      "control_internal_id": "3.4.1"
+    },
+    {
+      "internal_id": "3.4.1.f",
+      "objective": "the inventory is maintained (reviewed and updated) throughout the system development life cycle.",
+      "control_internal_id": "3.4.1"
+    },
+    {
+      "internal_id": "3.4.2.a",
+      "objective": "security configuration settings for information technology products employed in the system are established and included in the baseline configuration.",
+      "control_internal_id": "3.4.2"
+    },
+    {
+      "internal_id": "3.4.2.b",
+      "objective": "security configuration settings for information technology products employed in the system are enforced.",
+      "control_internal_id": "3.4.2"
+    },
+    {
+      "internal_id": "3.4.3.a",
+      "objective": "changes to the system are tracked.",
+      "control_internal_id": "3.4.3"
+    },
+    {
+      "internal_id": "3.4.3.b",
+      "objective": "changes to the system are reviewed.",
+      "control_internal_id": "3.4.3"
+    },
+    {
+      "internal_id": "3.4.3.c",
+      "objective": "changes to the system are approved or disapproved.",
+      "control_internal_id": "3.4.3"
+    },
+    {
+      "internal_id": "3.4.3.d",
+      "objective": "changes to the system are logged.",
+      "control_internal_id": "3.4.3"
+    },
+    {
+      "internal_id": "3.4.5.a",
+      "objective": "physical access restrictions associated with changes to the system are defined.",
+      "control_internal_id": "3.4.5"
+    },
+    {
+      "internal_id": "3.4.5.b",
+      "objective": "physical access restrictions associated with changes to the system are documented.",
+      "control_internal_id": "3.4.5"
+    },
+    {
+      "internal_id": "3.4.5.c",
+      "objective": "physical access restrictions associated with changes to the system are approved.",
+      "control_internal_id": "3.4.5"
+    },
+    {
+      "internal_id": "3.4.5.d",
+      "objective": "physical access restrictions associated with changes to the system are enforced.",
+      "control_internal_id": "3.4.5"
+    },
+    {
+      "internal_id": "3.4.5.e",
+      "objective": "logical access restrictions associated with changes to the system are defined.",
+      "control_internal_id": "3.4.5"
+    },
+    {
+      "internal_id": "3.4.5.f",
+      "objective": "logical access restrictions associated with changes to the system are documented.",
+      "control_internal_id": "3.4.5"
+    },
+    {
+      "internal_id": "3.4.5.g",
+      "objective": "logical access restrictions associated with changes to the system are approved.",
+      "control_internal_id": "3.4.5"
+    },
+    {
+      "internal_id": "3.4.5.h",
+      "objective": "logical access restrictions associated with changes to the system are enforced.",
+      "control_internal_id": "3.4.5"
+    },
+    {
+      "internal_id": "3.4.6.a",
+      "objective": "essential system capabilities are defined based on the principle of least functionality.",
+      "control_internal_id": "3.4.6"
+    },
+    {
+      "internal_id": "3.4.6.b",
+      "objective": "the system is configured to provide only the defined essential capabilities.",
+      "control_internal_id": "3.4.6"
+    },
+    {
+      "internal_id": "3.4.7.a",
+      "objective": "essential programs are defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.b",
+      "objective": "the use of nonessential programs is defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.c",
+      "objective": "the use of nonessential programs is restricted, disabled, or prevented as defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.d",
+      "objective": "essential functions are defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.e",
+      "objective": "the use of nonessential functions is defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.f",
+      "objective": "the use of nonessential functions is restricted, disabled, or prevented as defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.g",
+      "objective": "essential ports are defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.h",
+      "objective": "the use of nonessential ports is defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.i",
+      "objective": "the use of nonessential ports is restricted, disabled, or prevented as defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.j",
+      "objective": "essential protocols are defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.k",
+      "objective": "the use of nonessential protocols is defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.l",
+      "objective": "the use of nonessential protocols is restricted, disabled, or prevented as defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.m",
+      "objective": "essential services are defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.n",
+      "objective": "the use of nonessential services is defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.7.o",
+      "objective": "the use of nonessential services is restricted, disabled, or prevented as defined.",
+      "control_internal_id": "3.4.7"
+    },
+    {
+      "internal_id": "3.4.8.a",
+      "objective": "a policy specifying whether whitelisting or blacklisting is to be implemented is specified.",
+      "control_internal_id": "3.4.8"
+    },
+    {
+      "internal_id": "3.4.8.b",
+      "objective": "the software allowed to execute under whitelisting or denied use under blacklisting is specified.",
+      "control_internal_id": "3.4.8"
+    },
+    {
+      "internal_id": "3.4.8.c",
+      "objective": "whitelisting to allow the execution of authorized software or blacklisting to prevent the use of unauthorized software is implemented as specified.",
+      "control_internal_id": "3.4.8"
+    },
+    {
+      "internal_id": "3.4.9.a",
+      "objective": "a policy for controlling the installation of software by users is established.",
+      "control_internal_id": "3.4.9"
+    },
+    {
+      "internal_id": "3.4.9.b",
+      "objective": "installation of software by users is controlled based on the established policy.",
+      "control_internal_id": "3.4.9"
+    },
+    {
+      "internal_id": "3.4.9.c",
+      "objective": "installation of software by users is monitored.",
+      "control_internal_id": "3.4.9"
+    },
+    {
+      "internal_id": "3.5.1.a",
+      "objective": "system users are identified.",
+      "control_internal_id": "3.5.1"
+    },
+    {
+      "internal_id": "3.5.1.b",
+      "objective": "processes acting on behalf of users are identified.",
+      "control_internal_id": "3.5.1"
+    },
+    {
+      "internal_id": "3.5.1.c",
+      "objective": "devices accessing the system are identified.",
+      "control_internal_id": "3.5.1"
+    },
+    {
+      "internal_id": "3.5.2.a",
+      "objective": "the identity of each user is authenticated or verified as a prerequisite to system access.",
+      "control_internal_id": "3.5.2"
+    },
+    {
+      "internal_id": "3.5.2.b",
+      "objective": "the identity of each process acting on behalf of a user is authenticated or verified as a prerequisite to system access.",
+      "control_internal_id": "3.5.2"
+    },
+    {
+      "internal_id": "3.5.2.c",
+      "objective": "the identity of each device accessing or connecting to the system is authenticated or verified as a prerequisite to system access.",
+      "control_internal_id": "3.5.2"
+    },
+    {
+      "internal_id": "3.5.3.a",
+      "objective": "privileged accounts are identified.",
+      "control_internal_id": "3.5.3"
+    },
+    {
+      "internal_id": "3.5.3.b",
+      "objective": "multifactor authentication is implemented for local access to privileged accounts.",
+      "control_internal_id": "3.5.3"
+    },
+    {
+      "internal_id": "3.5.3.c",
+      "objective": "multifactor authentication is implemented for network access to privileged accounts.",
+      "control_internal_id": "3.5.3"
+    },
+    {
+      "internal_id": "3.5.3.d",
+      "objective": "multifactor authentication is implemented for network access to non-privileged accounts.",
+      "control_internal_id": "3.5.3"
+    },
+    {
+      "internal_id": "3.5.5.a",
+      "objective": "a period within which identifiers cannot be reused is defined.",
+      "control_internal_id": "3.5.5"
+    },
+    {
+      "internal_id": "3.5.5.b",
+      "objective": "reuse of identifiers is prevented within the defined period.",
+      "control_internal_id": "3.5.5"
+    },
+    {
+      "internal_id": "3.5.6.a",
+      "objective": "a period of inactivity after which an identifier is disabled is defined.",
+      "control_internal_id": "3.5.6"
+    },
+    {
+      "internal_id": "3.5.6.b",
+      "objective": "identifiers are disabled after the defined period of inactivity.",
+      "control_internal_id": "3.5.6"
+    },
+    {
+      "internal_id": "3.5.7.a",
+      "objective": "password complexity requirements are defined.",
+      "control_internal_id": "3.5.7"
+    },
+    {
+      "internal_id": "3.5.7.b",
+      "objective": "password change of character requirements are defined.",
+      "control_internal_id": "3.5.7"
+    },
+    {
+      "internal_id": "3.5.7.c",
+      "objective": "minimum password complexity requirements as defined are enforced when new passwords are created.",
+      "control_internal_id": "3.5.7"
+    },
+    {
+      "internal_id": "3.5.7.d",
+      "objective": "minimum password change of character requirements as defined are enforced when new passwords are created.",
+      "control_internal_id": "3.5.7"
+    },
+    {
+      "internal_id": "3.5.8.a",
+      "objective": "the number of generations during which a password cannot be reused is specified.",
+      "control_internal_id": "3.5.8"
+    },
+    {
+      "internal_id": "3.5.8.b",
+      "objective": "reuse of passwords is prohibited during the specified number of generations.",
+      "control_internal_id": "3.5.8"
+    },
+    {
+      "internal_id": "3.5.9.a",
+      "objective": "Determine if an immediate change to a permanent password is required when a temporary password is used for system logon.",
+      "control_internal_id": "3.5.9"
+    },
+    {
+      "internal_id": "3.5.10.a",
+      "objective": "passwords are cryptographically protected in storage.",
+      "control_internal_id": "3.5.10"
+    },
+    {
+      "internal_id": "3.5.10.b",
+      "objective": "passwords are cryptographically protected in transit.",
+      "control_internal_id": "3.5.10"
+    },
+    {
+      "internal_id": "3.5.11.a",
+      "objective": "Determine if authentication information is obscured during the authentication process.",
+      "control_internal_id": "3.5.11"
+    },
+    {
+      "internal_id": "3.6.1.a",
+      "objective": "an operational incident-handling capability is established.",
+      "control_internal_id": "3.6.1"
+    },
+    {
+      "internal_id": "3.6.1.b",
+      "objective": "the operational incident-handling capability includes preparation.",
+      "control_internal_id": "3.6.1"
+    },
+    {
+      "internal_id": "3.6.1.c",
+      "objective": "the operational incident-handling capability includes detection.",
+      "control_internal_id": "3.6.1"
+    },
+    {
+      "internal_id": "3.6.1.d",
+      "objective": "the operational incident-handling capability includes analysis.",
+      "control_internal_id": "3.6.1"
+    },
+    {
+      "internal_id": "3.6.1.e",
+      "objective": "the operational incident-handling capability includes containment.",
+      "control_internal_id": "3.6.1"
+    },
+    {
+      "internal_id": "3.6.1.f",
+      "objective": "the operational incident-handling capability includes recovery.",
+      "control_internal_id": "3.6.1"
+    },
+    {
+      "internal_id": "3.6.1.g",
+      "objective": "the operational incident-handling capability includes user response activities.",
+      "control_internal_id": "3.6.1"
+    },
+    {
+      "internal_id": "3.6.2.a",
+      "objective": "incidents are tracked.",
+      "control_internal_id": "3.6.2"
+    },
+    {
+      "internal_id": "3.6.2.b",
+      "objective": "incidents are documented.",
+      "control_internal_id": "3.6.2"
+    },
+    {
+      "internal_id": "3.6.2.c",
+      "objective": "authorities to whom incidents are to be reported are identified.",
+      "control_internal_id": "3.6.2"
+    },
+    {
+      "internal_id": "3.6.2.d",
+      "objective": "organizational officials to whom incidents are to be reported are identified.",
+      "control_internal_id": "3.6.2"
+    },
+    {
+      "internal_id": "3.6.2.e",
+      "objective": "identified authorities are notified of incidents.",
+      "control_internal_id": "3.6.2"
+    },
+    {
+      "internal_id": "3.6.2.f",
+      "objective": "identified organizational officials are notified of incidents.",
+      "control_internal_id": "3.6.2"
+    },
+    {
+      "internal_id": "3.6.3.a",
+      "objective": "Determine if the incident response capability is tested.",
+      "control_internal_id": "3.6.3"
+    },
+    {
+      "internal_id": "3.7.1.a",
+      "objective": "Determine if system maintenance is performed.",
+      "control_internal_id": "3.7.1"
+    },
+    {
+      "internal_id": "3.7.2.a",
+      "objective": "tools used to conduct system maintenance are controlled.",
+      "control_internal_id": "3.7.2"
+    },
+    {
+      "internal_id": "3.7.2.b",
+      "objective": "techniques used to conduct system maintenance are controlled.",
+      "control_internal_id": "3.7.2"
+    },
+    {
+      "internal_id": "3.7.2.c",
+      "objective": "mechanisms used to conduct system maintenance are controlled.",
+      "control_internal_id": "3.7.2"
+    },
+    {
+      "internal_id": "3.7.2.d",
+      "objective": "personnel used to conduct system maintenance are controlled.",
+      "control_internal_id": "3.7.2"
+    },
+    {
+      "internal_id": "3.7.3.a",
+      "objective": "Determine if equipment to be removed from organizational spaces for off-site maintenance is sanitized of any CUI.",
+      "control_internal_id": "3.7.3"
+    },
+    {
+      "internal_id": "3.7.4.a",
+      "objective": "Determine if media containing diagnostic and test programs are checked for malicious code before being used in organizational systems that process, store, or transmit CUI.",
+      "control_internal_id": "3.7.4"
+    },
+    {
+      "internal_id": "3.7.5.a",
+      "objective": "multifactor authentication is used to establish nonlocal maintenance sessions via external network connections.",
+      "control_internal_id": "3.7.5"
+    },
+    {
+      "internal_id": "3.7.5.b",
+      "objective": "nonlocal maintenance sessions established via external network connections are terminated when nonlocal maintenance is complete.",
+      "control_internal_id": "3.7.5"
+    },
+    {
+      "internal_id": "3.7.6a",
+      "objective": "Determine if maintenance personnel without required access authorization are supervised during maintenance activities.",
+      "control_internal_id": "3.7.6"
+    },
+    {
+      "internal_id": "3.8.1.a",
+      "objective": "paper media containing CUI is physically controlled.",
+      "control_internal_id": "3.8.1"
+    },
+    {
+      "internal_id": "3.8.1.b",
+      "objective": "digital media containing CUI is physically controlled.",
+      "control_internal_id": "3.8.1"
+    },
+    {
+      "internal_id": "3.8.1.c",
+      "objective": "paper media containing CUI is securely stored.",
+      "control_internal_id": "3.8.1"
+    },
+    {
+      "internal_id": "3.8.1.d",
+      "objective": "digital media containing CUI is securely stored.",
+      "control_internal_id": "3.8.1"
+    },
+    {
+      "internal_id": "3.8.2.a",
+      "objective": "Determine if access to CUI on system media is limited to authorized users.",
+      "control_internal_id": "3.8.2"
+    },
+    {
+      "internal_id": "3.8.3.a",
+      "objective": "system media containing CUI is sanitized or destroyed before disposal.",
+      "control_internal_id": "3.8.3"
+    },
+    {
+      "internal_id": "3.8.3.b",
+      "objective": "system media containing CUI is sanitized before it is released for reuse.",
+      "control_internal_id": "3.8.3"
+    },
+    {
+      "internal_id": "3.8.4.a",
+      "objective": "media containing CUI is marked with applicable CUI markings.",
+      "control_internal_id": "3.8.4"
+    },
+    {
+      "internal_id": "3.8.4.b",
+      "objective": "media containing CUI is marked with distribution limitations.",
+      "control_internal_id": "3.8.4"
+    },
+    {
+      "internal_id": "3.8.5.a",
+      "objective": "access to media containing CUI is controlled.",
+      "control_internal_id": "3.8.5"
+    },
+    {
+      "internal_id": "3.8.5.b",
+      "objective": "accountability for media containing CUI is maintained during transport outside of controlled areas.",
+      "control_internal_id": "3.8.5"
+    },
+    {
+      "internal_id": "3.8.6.a",
+      "objective": "Determine if the confidentiality of CUI stored on digital media is protected during transport using cryptographic mechanisms or alternative physical safeguards.",
+      "control_internal_id": "3.8.6"
+    },
+    {
+      "internal_id": "3.8.7.a",
+      "objective": "Determine if the use of removable media on system components is controlled.",
+      "control_internal_id": "3.8.7"
+    },
+    {
+      "internal_id": "3.8.8.a",
+      "objective": "Determine if the use of portable storage devices is prohibited when such devices have no identifiable owner.",
+      "control_internal_id": "3.8.8"
+    },
+    {
+      "internal_id": "3.8.9.a",
+      "objective": "Determine if the confidentiality of backup CUI is protected at storage locations.",
+      "control_internal_id": "3.8.9"
+    },
+    {
+      "internal_id": "3.9.1.a",
+      "objective": "Determine if individuals are screened prior to authorizing access to organizational systems containing CUI.",
+      "control_internal_id": "3.9.1"
+    },
+    {
+      "internal_id": "3.9.2.a",
+      "objective": "a policy and/or process for terminating system access and any credentials coincident with personnel actions is established.",
+      "control_internal_id": "3.9.2"
+    },
+    {
+      "internal_id": "3.9.2.b",
+      "objective": "system access and credentials are terminated consistent with personnel actions such as termination or transfer.",
+      "control_internal_id": "3.9.2"
+    },
+    {
+      "internal_id": "3.9.2.c",
+      "objective": "the system is protected during and after personnel transfer actions.",
+      "control_internal_id": "3.9.2"
+    },
+    {
+      "internal_id": "3.10.1.a",
+      "objective": "authorized individuals allowed physical access are identified.",
+      "control_internal_id": "3.10.1"
+    },
+    {
+      "internal_id": "3.10.1.b",
+      "objective": "physical access to organizational systems is limited to authorized individuals.",
+      "control_internal_id": "3.10.1"
+    },
+    {
+      "internal_id": "3.10.1.c",
+      "objective": "physical access to equipment is limited to authorized individuals.",
+      "control_internal_id": "3.10.1"
+    },
+    {
+      "internal_id": "3.10.1.d",
+      "objective": "physical access to operating environments is limited to authorized individuals.",
+      "control_internal_id": "3.10.1"
+    },
+    {
+      "internal_id": "3.10.2.a",
+      "objective": "the physical facility where organizational systems reside is protected.",
+      "control_internal_id": "3.10.2"
+    },
+    {
+      "internal_id": "3.10.2.b",
+      "objective": "the support infrastructure for organizational systems is protected.",
+      "control_internal_id": "3.10.2"
+    },
+    {
+      "internal_id": "3.10.2.c",
+      "objective": "the physical facility where organizational systems reside is monitored.",
+      "control_internal_id": "3.10.2"
+    },
+    {
+      "internal_id": "3.10.2.d",
+      "objective": "the support infrastructure for organizational systems is monitored.",
+      "control_internal_id": "3.10.2"
+    },
+    {
+      "internal_id": "3.10.3.a",
+      "objective": "visitors are escorted.",
+      "control_internal_id": "3.10.3"
+    },
+    {
+      "internal_id": "3.10.3.b",
+      "objective": "visitor activity is monitored.",
+      "control_internal_id": "3.10.3"
+    },
+    {
+      "internal_id": "3.10.4.a",
+      "objective": "Determine if audit logs of physical access are maintained.",
+      "control_internal_id": "3.10.4"
+    },
+    {
+      "internal_id": "3.10.5.a",
+      "objective": "physical access devices are identified.",
+      "control_internal_id": "3.10.5"
+    },
+    {
+      "internal_id": "3.10.5.b",
+      "objective": "physical access devices are controlled.",
+      "control_internal_id": "3.10.5"
+    },
+    {
+      "internal_id": "3.10.5.c",
+      "objective": "physical access devices are managed.",
+      "control_internal_id": "3.10.5"
+    },
+    {
+      "internal_id": "3.10.6.a",
+      "objective": "safeguarding measures for CUI are defined for alternate work sites.",
+      "control_internal_id": "3.10.6"
+    },
+    {
+      "internal_id": "3.10.6.b",
+      "objective": "safeguarding measures for CUI are enforced for alternate work sites.",
+      "control_internal_id": "3.10.6"
+    },
+    {
+      "internal_id": "3.11.1.a",
+      "objective": "the frequency to assess risk to organizational operations, organizational assets, and individuals is defined.",
+      "control_internal_id": "3.11.1"
+    },
+    {
+      "internal_id": "3.11.1.b",
+      "objective": "risk to organizational operations, organizational assets, and individuals resulting from the operation of an organizational system that processes, stores, or transmits CUI is assessed with the defined frequency.",
+      "control_internal_id": "3.11.1"
+    },
+    {
+      "internal_id": "3.12.1.a",
+      "objective": "the frequency of security control assessments is defined.",
+      "control_internal_id": "3.12.1"
+    },
+    {
+      "internal_id": "3.12.1.b",
+      "objective": "security controls are assessed with the defined frequency to determine if the controls are effective in their application.",
+      "control_internal_id": "3.12.1"
+    },
+    {
+      "internal_id": "3.12.2.a",
+      "objective": "deficiencies and vulnerabilities to be addressed by the plan of action are identified.",
+      "control_internal_id": "3.12.2"
+    },
+    {
+      "internal_id": "3.12.2.b",
+      "objective": "a plan of action is developed to correct identified deficiencies and reduce or eliminate identified vulnerabilities.",
+      "control_internal_id": "3.12.2"
+    },
+    {
+      "internal_id": "3.12.2.c",
+      "objective": "the plan of action is implemented to correct identified deficiencies and reduce or eliminate identified vulnerabilities.",
+      "control_internal_id": "3.12.2"
+    },
+    {
+      "internal_id": "3.12.3.a",
+      "objective": "Determine if security controls are monitored on an ongoing basis to ensure the continued effectiveness of those controls.",
+      "control_internal_id": "3.12.3"
+    },
+    {
+      "internal_id": "3.12.4.a",
+      "objective": "a system security plan is developed.",
+      "control_internal_id": "3.12.4"
+    },
+    {
+      "internal_id": "3.12.4.b",
+      "objective": "the system boundary is described and documented in the system security plan.",
+      "control_internal_id": "3.12.4"
+    },
+    {
+      "internal_id": "3.12.4.c",
+      "objective": "the system environment of operation is described and documented in the system security plan.",
+      "control_internal_id": "3.12.4"
+    },
+    {
+      "internal_id": "3.12.4.d",
+      "objective": "the security requirements identified and approved by the designated authority as non-applicable are identified.",
+      "control_internal_id": "3.12.4"
+    },
+    {
+      "internal_id": "3.12.4.e",
+      "objective": "the method of security requirement implementation is described and documented in the system security plan.",
+      "control_internal_id": "3.12.4"
+    },
+    {
+      "internal_id": "3.12.4.f",
+      "objective": "the relationship with or connection to other systems is described and documented in the system security plan.",
+      "control_internal_id": "3.12.4"
+    },
+    {
+      "internal_id": "3.12.4.g",
+      "objective": "the frequency to update the system security plan is defined.",
+      "control_internal_id": "3.12.4"
+    },
+    {
+      "internal_id": "3.12.4.h",
+      "objective": "system security plan is updated with the defined frequency.",
+      "control_internal_id": "3.12.4"
+    },
+    {
+      "internal_id": "3.13.1.a",
+      "objective": "the external system boundary is defined.",
+      "control_internal_id": "3.13.1"
+    },
+    {
+      "internal_id": "3.13.1.b",
+      "objective": "key internal system boundaries are defined.",
+      "control_internal_id": "3.13.1"
+    },
+    {
+      "internal_id": "3.13.1.c",
+      "objective": "communications are monitored at the external system boundary.",
+      "control_internal_id": "3.13.1"
+    },
+    {
+      "internal_id": "3.13.1.d",
+      "objective": "communications are monitored at key internal boundaries.",
+      "control_internal_id": "3.13.1"
+    },
+    {
+      "internal_id": "3.13.1.e",
+      "objective": "communications are controlled at the external system boundary.",
+      "control_internal_id": "3.13.1"
+    },
+    {
+      "internal_id": "3.13.1.f",
+      "objective": "communications are controlled at key internal boundaries.",
+      "control_internal_id": "3.13.1"
+    },
+    {
+      "internal_id": "3.13.1.g",
+      "objective": "communications are protected at the external system boundary.",
+      "control_internal_id": "3.13.1"
+    },
+    {
+      "internal_id": "3.13.1.h",
+      "objective": "communications are protected at key internal boundaries.",
+      "control_internal_id": "3.13.1"
+    },
+    {
+      "internal_id": "3.13.2.a",
+      "objective": "architectural designs that promote effective information security are identified.",
+      "control_internal_id": "3.13.2"
+    },
+    {
+      "internal_id": "3.13.2.b",
+      "objective": "software development techniques that promote effective information security are identified.",
+      "control_internal_id": "3.13.2"
+    },
+    {
+      "internal_id": "3.13.2.c",
+      "objective": "systems engineering principles that promote effective information security are identified.",
+      "control_internal_id": "3.13.2"
+    },
+    {
+      "internal_id": "3.13.2.d",
+      "objective": "identified architectural designs that promote effective information security are employed.",
+      "control_internal_id": "3.13.2"
+    },
+    {
+      "internal_id": "3.13.2.e",
+      "objective": "identified software development techniques that promote effective information security are employed.",
+      "control_internal_id": "3.13.2"
+    },
+    {
+      "internal_id": "3.13.2.f",
+      "objective": "identified systems engineering principles that promote effective information security are employed.",
+      "control_internal_id": "3.13.2"
+    },
+    {
+      "internal_id": "3.13.3.a",
+      "objective": "user functionality is identified.",
+      "control_internal_id": "3.13.3"
+    },
+    {
+      "internal_id": "3.13.3.b",
+      "objective": "system management functionality is identified.",
+      "control_internal_id": "3.13.3"
+    },
+    {
+      "internal_id": "3.13.3.c",
+      "objective": "user functionality is separated from system management functionality.",
+      "control_internal_id": "3.13.3"
+    },
+    {
+      "internal_id": "3.13.4.a",
+      "objective": "Determine if unauthorized and unintended information transfer via shared system resources is prevented.",
+      "control_internal_id": "3.13.4"
+    },
+    {
+      "internal_id": "3.13.5.a",
+      "objective": "publicly accessible system components are identified.",
+      "control_internal_id": "3.13.5"
+    },
+    {
+      "internal_id": "3.13.5.b",
+      "objective": "subnetworks for publicly accessible system components are physically or logically separated from internal networks.",
+      "control_internal_id": "3.13.5"
+    },
+    {
+      "internal_id": "3.13.6.a",
+      "objective": "network communications traffic is denied by default.",
+      "control_internal_id": "3.13.6"
+    },
+    {
+      "internal_id": "3.13.6.b",
+      "objective": "network communications traffic is allowed by exception.",
+      "control_internal_id": "3.13.6"
+    },
+    {
+      "internal_id": "3.13.7.a",
+      "objective": "Determine if remote devices are prevented from simultaneously establishing non-remote connections with the system and communicating via some other connection to resources in external networks (i.e., split tunneling).",
+      "control_internal_id": "3.13.7"
+    },
+    {
+      "internal_id": "3.13.9.a",
+      "objective": "a period of inactivity to terminate network connections associated with communications sessions is defined.",
+      "control_internal_id": "3.13.9"
+    },
+    {
+      "internal_id": "3.13.9.b",
+      "objective": "network connections associated with communications sessions are terminated at the end of the sessions.",
+      "control_internal_id": "3.13.9"
+    },
+    {
+      "internal_id": "3.13.9.c",
+      "objective": "network connections associated with communications sessions are terminated after the defined period of inactivity.",
+      "control_internal_id": "3.13.9"
+    },
+    {
+      "internal_id": "3.13.10.a",
+      "objective": "cryptographic keys are established whenever cryptography is employed.",
+      "control_internal_id": "3.13.10"
+    },
+    {
+      "internal_id": "3.13.10.b",
+      "objective": "cryptographic keys are managed whenever cryptography is employed.",
+      "control_internal_id": "3.13.10"
+    },
+    {
+      "internal_id": "3.13.11.a",
+      "objective": "Determine if FIPS-validated cryptography is employed to protect the confidentiality of CUI.",
+      "control_internal_id": "3.13.11"
+    },
+    {
+      "internal_id": "3.13.12.a",
+      "objective": "collaborative computing devices are identified.",
+      "control_internal_id": "3.13.12"
+    },
+    {
+      "internal_id": "3.13.12.b",
+      "objective": "collaborative computing devices provide indication to users of devices in use.",
+      "control_internal_id": "3.13.12"
+    },
+    {
+      "internal_id": "3.13.12.c",
+      "objective": "remote activation of collaborative computing devices is prohibited.",
+      "control_internal_id": "3.13.12"
+    },
+    {
+      "internal_id": "3.13.13.a",
+      "objective": "use of mobile code is controlled.",
+      "control_internal_id": "3.13.13"
+    },
+    {
+      "internal_id": "3.13.13.b",
+      "objective": "use of mobile code is monitored.",
+      "control_internal_id": "3.13.13"
+    },
+    {
+      "internal_id": "3.13.14.a",
+      "objective": "use of Voice over Internet Protocol (VoIP) technologies is controlled.",
+      "control_internal_id": "3.13.14"
+    },
+    {
+      "internal_id": "3.13.14.b",
+      "objective": "use of Voice over Internet Protocol (VoIP) technologies is monitored.",
+      "control_internal_id": "3.13.14"
+    },
+    {
+      "internal_id": "3.13.15.a",
+      "objective": "Determine if the authenticity of communications sessions is protected.",
+      "control_internal_id": "3.13.15"
+    },
+    {
+      "internal_id": "3.13.16.a",
+      "objective": "Determine if the confidentiality of CUI at rest is protected.",
+      "control_internal_id": "3.13.16"
+    },
+    {
+      "internal_id": "3.14.1.a",
+      "objective": "the time within which to identify system flaws is specified.",
+      "control_internal_id": "3.14.1"
+    },
+    {
+      "internal_id": "3.14.1.b",
+      "objective": "system flaws are identified within the specified time frame.",
+      "control_internal_id": "3.14.1"
+    },
+    {
+      "internal_id": "3.14.1.c",
+      "objective": "the time within which to report system flaws is specified.",
+      "control_internal_id": "3.14.1"
+    },
+    {
+      "internal_id": "3.14.1.d",
+      "objective": "system flaws are reported within the specified time frame.",
+      "control_internal_id": "3.14.1"
+    },
+    {
+      "internal_id": "3.14.1.e",
+      "objective": "the time within which to correct system flaws is specified.",
+      "control_internal_id": "3.14.1"
+    },
+    {
+      "internal_id": "3.14.1.f",
+      "objective": "system flaws are corrected within the specified time frame.",
+      "control_internal_id": "3.14.1"
+    },
+    {
+      "internal_id": "3.14.2.a",
+      "objective": "designated locations for malicious code protection are identified.",
+      "control_internal_id": "3.14.2"
+    },
+    {
+      "internal_id": "3.14.2.b",
+      "objective": "protection from malicious code at designated locations is provided.",
+      "control_internal_id": "3.14.2"
+    },
+    {
+      "internal_id": "3.14.3.a",
+      "objective": "response actions to system security alerts and advisories are identified.",
+      "control_internal_id": "3.14.3"
+    },
+    {
+      "internal_id": "3.14.3.b",
+      "objective": "system security alerts and advisories are monitored.",
+      "control_internal_id": "3.14.3"
+    },
+    {
+      "internal_id": "3.14.3.c",
+      "objective": "actions in response to system security alerts and advisories are taken.",
+      "control_internal_id": "3.14.3"
+    },
+    {
+      "internal_id": "3.14.4.a",
+      "objective": "Determine if malicious code protection mechanisms are updated when new releases are available.",
+      "control_internal_id": "3.14.4"
+    },
+    {
+      "internal_id": "3.14.5.a",
+      "objective": "the frequency for malicious code scans is defined.",
+      "control_internal_id": "3.14.5"
+    },
+    {
+      "internal_id": "3.14.5.b",
+      "objective": "malicious code scans are performed with the defined frequency.",
+      "control_internal_id": "3.14.5"
+    },
+    {
+      "internal_id": "3.14.5.c",
+      "objective": "real-time malicious code scans of files from external sources as files are downloaded, opened, or executed are performed.",
+      "control_internal_id": "3.14.5"
+    },
+    {
+      "internal_id": "3.14.6.a",
+      "objective": "the system is monitored to detect attacks and indicators of potential attacks.",
+      "control_internal_id": "3.14.6"
+    },
+    {
+      "internal_id": "3.14.6.b",
+      "objective": "inbound communications traffic is monitored to detect attacks and indicators of potential attacks.",
+      "control_internal_id": "3.14.6"
+    },
+    {
+      "internal_id": "3.14.6.c",
+      "objective": "outbound communications traffic is monitored to detect attacks and indicators of potential attacks.",
+      "control_internal_id": "3.14.6"
+    },
+    {
+      "internal_id": "3.14.7.a",
+      "objective": "authorized use of the system is defined.",
+      "control_internal_id": "3.14.7"
+    },
+    {
+      "internal_id": "3.14.7.b",
+      "objective": "unauthorized use of the system is identified.",
+      "control_internal_id": "3.14.7"
+    }
+  ]
+}

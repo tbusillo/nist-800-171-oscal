@@ -1,0 +1,634 @@
+[
+  {
+    "assessmentObject": "Organizational processes for managing system accounts",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms for implementing account management",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing access control policy",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing information flow enforcement policy",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing separation of duties policy",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing least privilege functions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms prohibiting privileged access to the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing least privilege functions for non-privileged users",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms auditing the execution of privileged functions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing access control policy for unsuccessful logon attempts",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing system use notification",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing access control policy for session lock",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing user session termination",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Remote access management capability for the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Cryptographic mechanisms protecting remote access sessions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms routing all remote accesses through managed network access control points",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing remote access management",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Wireless access management capability for the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing wireless access protections to the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Access control capability authorizing mobile device connections to organizational systems",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Encryption mechanisms protecting confidentiality of information on mobile devices",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing terms and conditions on use of external systems",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing restrictions on use of portable storage devices",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing management of publicly accessible content",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms managing security awareness training",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms managing role-based security training",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms managing insider threat training",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing system audit logging",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting review and update of logged event types",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing system response to audit logging processing failures",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting analysis and correlation of audit records",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms integrating audit review, analysis and reporting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Audit record reduction and report generation capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing time stamp generation",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing internal information system clock synchronization",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing audit information protection",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms managing access to audit logging functionality",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for managing baseline configurations",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting configuration control of the baseline configuration",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for developing and documenting an inventory of system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for updating inventory of system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing the system inventory",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing updating of the system inventory",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for managing configuration settings",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms that implement, monitor, and/or control system configuration settings",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms that identify and/or document deviations from established configuration settings",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Processes for managing baseline configurations",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting configuration control of baseline configurations",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for configuration change control",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms that implement configuration change control",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for security impact analysis",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for managing access restrictions associated with changes to the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting, implementing, and enforcing access restrictions associated with changes to the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes prohibiting or restricting functions, ports, protocols, or services",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing restrictions or prohibition of functions, ports, protocols, or services",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for reviewing and disabling nonessential programs, functions, ports, protocols, or services",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing review and handling of nonessential programs, functions, ports, protocols, or services",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes preventing program execution on the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for software program usage and restrictions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing software program usage and restrictions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms preventing program execution on the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational process for identifying, reviewing, and updating programs authorized or not authorized to execute on the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Process for implementing blacklisting or whitelisting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing blacklisting or whitelisting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes governing user-installed software on the system",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms enforcing rules or methods for governing the installation of software by users",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms monitoring policy compliance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for uniquely identifying and authenticating users",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing identification and authentication capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing authenticator management capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing multifactor authentication capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing identification and authentication capability or replay resistant authentication mechanisms",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing identifier management",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing password-based authenticator management capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing the obscuring of feedback of authentication information during authentication",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Incident-handling capability for the organization",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for incident response assistance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing incident response assistance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Incident monitoring capability for the organization",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing tracking and documenting of system security incidents",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for incident reporting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing incident reporting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms and processes for incident response",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for scheduling, performing, documenting, reviewing, approving, and monitoring maintenance and repairs for systems",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for sanitizing system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing controlled maintenance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing sanitization of system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for approving, controlling, and monitoring maintenance tools",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing approval, control, and monitoring of maintenance tools",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for inspecting maintenance tools",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing inspection of maintenance tools",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational process for inspecting media for malicious code",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing inspection of media used for maintenance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for managing nonlocal maintenance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing, supporting, and managing nonlocal maintenance",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms for strong authentication of nonlocal maintenance diagnostic sessions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms for terminating nonlocal maintenance sessions and network connections",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for authorizing and managing maintenance personnel",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing authorization of maintenance personnel",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for restricting information media",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing media access restrictions",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for storing media",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing secure media storage and media protection",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for media sanitization",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing media sanitization",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for marking information media",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing media marking",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing media storage and media protection",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Cryptographic mechanisms protecting information on digital media during transportation outside controlled areas",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for media use",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms restricting or prohibiting use of system media on systems or system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms prohibiting use of media on systems or system components",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for conducting system backups",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing system backups",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for personnel screening",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for personnel transfer and termination",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing personnel transfer and termination notifications",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms for disabling system access and revoking authenticators",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for physical access authorizations",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing physical access authorizations",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for monitoring physical access",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing physical access monitoring",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing the review of physical access logs",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for physical access control",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing physical access control",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Physical access control devices",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for security at alternate work sites",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting alternate work sites",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Safeguards employed at alternate work sites",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Means of communications between personnel at alternate work sites and security personnel",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for risk assessment",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or for conducting, documenting, reviewing, disseminating, and updating the risk assessment",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for vulnerability scanning, analysis, remediation, and information sharing",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing vulnerability scanning, analysis, remediation, and information sharing",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting security assessment, security assessment plan development, and security assessment reporting",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms for developing, implementing, and maintaining plan of action",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for system security plan development, review, update, and approval",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting the system security plan",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing boundary protection capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Processes for applying security engineering principles in system specification, design, development, implementation, and modification",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Automated mechanisms supporting the application of security engineering principles in information system specification, design, development, implementation, and modification",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Separation of user functionality from system management functionality",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms implementing traffic management at managed interfaces",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or restricting non-remote connections",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Cryptographic mechanisms or mechanisms supporting or implementing transmission confidentiality",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational processes for defining and implementing alternative physical safeguards",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing network disconnect capability",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing cryptographic key establishment and management",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing cryptographic protection",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing management of remote activation of collaborative computing devices",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms providing an indication of use of collaborative computing devices",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational process for controlling, authorizing, monitoring, and restricting mobile code",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing the management of mobile code",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing the monitoring of mobile code",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Organizational process for authorizing, monitoring, and controlling voip",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing authorizing, monitoring, and controlling voip",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing session authenticity",
+    "assessmentMethod": "Test"
+  },
+  {
+    "assessmentObject": "Mechanisms supporting or implementing confidentiality protections for information at rest",
+    "assessmentMethod": "Test"
+  }
+]
