@@ -1,0 +1,323 @@
+{
+  "references": [
+    {
+      "short_name": "ATOM54",
+      "name": "Atomic Energy Act (P.L. 83-703), August 1954.",
+      "url": "https://www.govinfo.gov/app/details/STATUTE-68/STATUTE-68-Pg919"
+    },
+    {
+      "short_name": "FOIA96",
+      "name": "Freedom of Information Act (FOIA), 5 U.S.C. § 552, As Amended By Public Law No. 104-231, 110 Stat. 3048, Electronic Freedom of Information Act Amendments of 1996.",
+      "url": "https://www.govinfo.gov/app/details/PLAW-104publ231"
+    },
+    {
+      "short_name": "FISMA",
+      "name": "Federal Information Security Modernization Act (P.L. 113-283), December 2014.",
+      "url": "https://www.govinfo.gov/app/details/PLAW-113publ283"
+    },
+    {
+      "short_name": "40 USC 11331",
+      "name": "Title 40 U.S. Code, Sec. 11331, Responsibilities for Federal information systems standards. 2017 ed.",
+      "url": "https://www.govinfo.gov/app/details/USCODE-2017-title40/USCODE-2017-title40- subtitleIII-chap113-subchapIII-sec11331"
+    },
+    {
+      "short_name": "44 USC 3502",
+      "name": "Title 44 U.S. Code, Sec. 3502, Definitions. 2017 ed. ",
+      "url": "https://www.govinfo.gov/app/details/USCODE-2017-title44/USCODE-2017-title44- chap35-subchapI-sec3502"
+    },
+    {
+      "short_name": "44 USC 3552",
+      "name": "Title 44 U.S. Code, Sec. 3552, Definitions. 2017 ed. ",
+      "url": "https://www.govinfo.gov/app/details/USCODE-2017-title44/USCODE-2017-title44- chap35-subchapII-sec3552"
+    },
+    {
+      "short_name": "44 USC 3554",
+      "name": "Title 44 U.S. Code, Sec. 3554, Federal agency responsibilities. 2017 ed.",
+      "url": "https://www.govinfo.gov/app/details/USCODE-2017-title44/USCODE-2017-title44- chap35-subchapII-sec3554"
+    },
+    {
+      "short_name": "EO 13526",
+      "name": "Executive Order 13526 (2009) Classified National Security Information. (The White House, Washington, DC), DCPD-200901022, December 29, 2009. ",
+      "url": "https://www.govinfo.gov/app/details/DCPD-200901022"
+    },
+    {
+      "short_name": "EO 13556",
+      "name": "Executive Order 13556 (2010) Controlled Unclassified Information. (The White House, Washington, DC), DCPD-201000942, November 4, 2010. ",
+      "url": "https://www.govinfo.gov/app/details/DCPD-201000942"
+    },
+    {
+      "short_name": "32 CFR 2002",
+      "name": "32 CFR Part 2002, Controlled Unclassified Information, September 2016.",
+      "url": "https://www.govinfo.gov/app/details/CFR-2017-title32-vol6/CFR-2017-title32- vol6-part2002/summary"
+    },
+    {
+      "short_name": "OMB A-130",
+      "name": "Office of Management and Budget (2016) Managing Information as a Strategic Resource. (The White House, Washington, DC), OMB Circular A- 130, July 2016.",
+      "url": "https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a13 0revised.pdf"
+    },
+    {
+      "short_name": "CNSSI 4009",
+      "name": "Committee on National Security Systems (2015) Committee on National Security Systems (CNSS) Glossary. (National Security Agency, Fort George G. Meade, MD), CNSS Instruction 4009.",
+      "url": "https://www.cnss.gov/CNSS/issuances/Instructions.cfm"
+    },
+    {
+      "short_name": "ISO 27001",
+      "name": "International Organization for Standardization/International Electrotechnical Commission (2013) Information Technology—Security techniques— Information security management systems—Requirements. (International Organization for Standardization, Geneva, Switzerland), ISO/IEC 27001:2013.",
+      "url": "https://www.iso.org/standard/54534.html"
+    },
+    {
+      "short_name": "FIPS 199",
+      "name": "National Institute of Standards and Technology (2004) Standards for Security Categorization of Federal Information and Information Systems. (U.S. Department of Commerce, Washington, DC), Federal Information Processing Standards Publication (FIPS) 199. ",
+      "url": "https://doi.org/10.6028/NIST.FIPS.199"
+    },
+    {
+      "short_name": "FIPS 200",
+      "name": "National Institute of Standards and Technology (2006) Minimum Security Requirements for Federal Information and Information Systems. (U.S. Department of Commerce, Washington, DC), Federal Information Processing Standards Publication (FIPS) 200. ",
+      "url": "https://doi.org/10.6028/NIST.FIPS.200"
+    },
+    {
+      "short_name": "SP 800-18",
+      "name": "Swanson MA, Hash J, Bowen P (2006) Guide for Developing Security Plans for Federal Information Systems. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-18, Rev. 1.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-18r1"
+    },
+    {
+      "short_name": "SP 800-28",
+      "name": "Jansen W, Winograd T, Scarfone KA (2008) Guidelines on Active Content and Mobile Code. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-28, Version 2. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-28ver2"
+    },
+    {
+      "short_name": "SP 800-30",
+      "name": "Joint Task Force Transformation Initiative (2012) Guide for Conducting Risk Assessments. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-30, Rev. 1. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-30r1"
+    },
+    {
+      "short_name": "SP 800-39",
+      "name": "Joint Task Force Transformation Initiative (2011) Managing Information Security Risk: Organization, Mission, and Information System View. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-39.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-39"
+    },
+    {
+      "short_name": "SP 800-40",
+      "name": "Souppaya MP, Scarfone KA (2013) Guide to Enterprise Patch Management Technologies. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-40, Rev. 3. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-40r3"
+    },
+    {
+      "short_name": "SP 800-41",
+      "name": "Scarfone KA, Hoffman P (2009) Guidelines on Firewalls and Firewall Policy. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-41, Rev. 1.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-41r1"
+    },
+    {
+      "short_name": "SP 800-46",
+      "name": "Souppaya MP, Scarfone KA (2016) Guide to Enterprise Telework, Remote Access, and Bring Your Own Device (BYOD) Security. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-46, Rev. 2.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-46r2"
+    },
+    {
+      "short_name": "SP 800-50",
+      "name": "Wilson M, Hash J (2003) Building an Information Technology Security Awareness and Training Program. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-50. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-50"
+    },
+    {
+      "short_name": "SP 800-53",
+      "name": "Joint Task Force Transformation Initiative (2013) Security and Privacy Controls for Federal Information Systems and Organizations. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-53, Rev. 4, Includes updates as of January 22, 2015. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-53r4"
+    },
+    {
+      "short_name": "SP 800-53A",
+      "name": "Joint Task Force Transformation Initiative (2014) Assessing Security and Privacy Controls in Federal Information Systems and Organizations: Building Effective Assessment Plans. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-53A, Rev. 4, Includes updates as of December 18, 2014. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-53Ar4"
+    },
+    {
+      "short_name": "SP 800-53B",
+      "name": "Control Baselines and Tailoring Guidance for Federal Information Systems and Organizations. (National Institute of Standards and Technology, Gaithersburg, MD), Draft NIST Special Publication (SP) 800-53B. [Forthcoming]."
+    },
+    {
+      "short_name": "SP 800-56A",
+      "name": "Barker EB, Chen L, Roginsky A, Vassilev A, Davis R (2018) Recommendation for Pair-Wise Key-Establishment Schemes Using Discrete Logarithm Cryptography. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-56A, Rev. 3. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-56Ar3"
+    },
+    {
+      "short_name": "SP 800-57-1",
+      "name": "Barker EB (2016) Recommendation for Key Management, Part 1: General. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-57 Part 1, Rev. 4. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-57pt1r4"
+    },
+    {
+      "short_name": "SP 800-58",
+      "name": "Kuhn R, Walsh TJ, Fries S (2005) Security Considerations for Voice Over IP Systems. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-58.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-58"
+    },
+    {
+      "short_name": "SP 800-60-1",
+      "name": "Stine KM, Kissel RL, Barker WC, Fahlsing J, Gulick J (2008) Guide for Mapping Types of Information and Information Systems to Security Categories. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-60, Vol. 1, Rev. 1. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-60v1r1"
+    },
+    {
+      "short_name": "SP 800-60-2",
+      "name": "Stine KM, Kissel RL, Barker WC, Lee A, Fahlsing J (2008) Guide for Mapping Types of Information and Information Systems to Security Categories: Appendices. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-60, Vol. 2, Rev. 1. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-60v2r1"
+    },
+    {
+      "short_name": "SP 800-61",
+      "name": "Cichonski PR, Millar T, Grance T, Scarfone KA (2012) Computer Security Incident Handling Guide. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-61, Rev. 2. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-61r2"
+    },
+    {
+      "short_name": "SP 800-63-3",
+      "name": "Grassi PA, Garcia ME, Fenton JL (2017) Digital Identity Guidelines. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-63-3, Includes updates as of December 1, 2017. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-63-3"
+    },
+    {
+      "short_name": "SP 800-70",
+      "name": "Quinn SD, Souppaya MP, Cook MR, Scarfone KA (2018) National Checklist Program for IT Products: Guidelines for Checklist Users and Developers. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-70, Rev. 4.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-70r4"
+    },
+    {
+      "short_name": "SP 800-77",
+      "name": "Frankel SE, Kent K, Lewkowski R, Orebaugh AD, Ritchey RW, Sharma SR (2005) Guide to IPsec VPNs. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-77. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-77"
+    },
+    {
+      "short_name": "SP 800-83",
+      "name": "Souppaya MP, Scarfone KA (2013) Guide to Malware Incident Prevention and Handling for Desktops and Laptops. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-83, Rev. 1.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-83r1"
+    },
+    {
+      "short_name": "SP 800-84",
+      "name": "Grance T, Nolan T, Burke K, Dudley R, White G, Good T (2006) Guide to Test, Training, and Exercise Programs for IT Plans and Capabilities. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-84.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-84"
+    },
+    {
+      "short_name": "SP 800-86",
+      "name": "Kent K, Chevalier S, Grance T, Dang H (2006) Guide to Integrating Forensic Techniques into Incident Response. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-86. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-86"
+    },
+    {
+      "short_name": "SP 800-88",
+      "name": "Kissel RL, Regenscheid AR, Scholl MA, Stine KM (2014) Guidelines for Media Sanitization. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-88, Rev. 1.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-88r1"
+    },
+    {
+      "short_name": "SP 800-92",
+      "name": "Kent K, Souppaya MP (2006) Guide to Computer Security Log Management. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-92.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-92"
+    },
+    {
+      "short_name": "SP 800-94",
+      "name": "Scarfone KA, Mell PM (2007) Guide to Intrusion Detection and Prevention Systems (IDPS). (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-94.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-94"
+    },
+    {
+      "short_name": "SP 800-95",
+      "name": "Singhal A, Winograd T, Scarfone KA (2007) Guide to Secure Web Services. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-95.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-95"
+    },
+    {
+      "short_name": "SP 800-97",
+      "name": "Frankel SE, Eydt B, Owens L, Scarfone KA (2007) Establishing Wireless Robust Security Networks: A Guide to IEEE 802.11i. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-97.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-97"
+    },
+    {
+      "short_name": "SP 800-101",
+      "name": "Ayers RP, Brothers S, Jansen W (2014) Guidelines on Mobile Device Forensics. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-101, Rev. 1. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-101r1"
+    },
+    {
+      "short_name": "SP 800-111",
+      "name": "Scarfone KA, Souppaya MP, Sexton M (2007) Guide to Storage Encryption Technologies for End User Devices. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-111. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-111"
+    },
+    {
+      "short_name": "SP 800-113",
+      "name": "Frankel SE, Hoffman P, Orebaugh AD, Park R (2008) Guide to SSL VPNs. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-113.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-113"
+    },
+    {
+      "short_name": "SP 800-114",
+      "name": "Souppaya MP, Scarfone KA (2016) User's Guide to Telework and Bring Your Own Device (BYOD) Security. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-114, Rev. 1.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-114r1"
+    },
+    {
+      "short_name": "SP 800-124",
+      "name": "Souppaya MP, Scarfone KA (2013) Guidelines for Managing the Security of Mobile Devices in the Enterprise. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-124, Rev. 1.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-124r1"
+    },
+    {
+      "short_name": "SP 800-125B",
+      "name": "Chandramouli R (2016) Secure Virtual Network Configuration for Virtual Machine (VM) Protection. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-125B. ",
+      "url": "https://doi.org/10.6028/NIST.SP.800-125B"
+    },
+    {
+      "short_name": "SP 800-128",
+      "name": "Johnson LA, Dempsey KL, Ross RS, Gupta S, Bailey D (2011) Guide for Security-Focused Configuration Management of Information Systems. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-128.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-128"
+    },
+    {
+      "short_name": "SP 800-137",
+      "name": "Dempsey KL, Chawla NS, Johnson LA, Johnston R, Jones AC, Orebaugh AD, Scholl MA, Stine KM (2011) Information Security Continuous Monitoring (ISCM) for Federal Information Systems and Organizations. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-137.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-137"
+    },
+    {
+      "short_name": "SP 800-160-1",
+      "name": "Ross RS, Oren JC, McEvilley M (2016) Systems Security Engineering: Considerations for a Multidisciplinary Approach in the Engineering of Trustworthy Secure Systems. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-160, Vol. 1, Includes updates as of March 21, 2018.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-160v1"
+    },
+    {
+      "short_name": "SP 800-161",
+      "name": "Boyens JM, Paulsen C, Moorthy R, Bartol N (2015) Supply Chain Risk Management Practices for Federal Information Systems and Organizations. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-161.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-161"
+    },
+    {
+      "short_name": "SP 800-167",
+      "name": "Sedgewick A, Souppaya MP, Scarfone KA (2015) Guide to Application Whitelisting. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-167.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-167"
+    },
+    {
+      "short_name": "SP 800-171A",
+      "name": "Ross RS, Dempsey KL, Pillitteri VY (2018) Assessing Security Requirements for Controlled Unclassified Information. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-171A.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-171A"
+    },
+    {
+      "short_name": "SP 800-181",
+      "name": "Newhouse WD, Witte GA, Scribner B, Keith S (2017) National Initiative for Cybersecurity Education (NICE) Cybersecurity Workforce Framework. (National Institute of Standards and Technology, Gaithersburg, MD), NIST Special Publication (SP) 800-181.",
+      "url": "https://doi.org/10.6028/NIST.SP.800-181"
+    },
+    {
+      "short_name": "IETF 5905",
+      "name": "Mills D, Martin J (ed.), Burbank J, Kasch W (2010) Network Time Protocol Version 4: Protocol and Algorithms Specification. (Internet Engineering Task Force), IETF Request for Comments (RFC) 5905",
+      "url": "https://doi.org/10.17487/RFC5905"
+    },
+    {
+      "short_name": "NARA CUI",
+      "name": "National Archives and Records Administration (2019) Controlled Unclassified Information (CUI) Registry.",
+      "url": "https://www.archives.gov/cui"
+    },
+    {
+      "short_name": "NARA MARK",
+      "name": "National Archives and Records Administration (2016) Marking Controlled Unclassified Information, Version 1.1. (National Archives, Washington, DC). ",
+      "url": "https://www.archives.gov/files/cui/20161206-cui-marking-handbook-v1-1.pdf"
+    },
+    {
+      "short_name": "NIST CAVP",
+      "name": "National Institute of Standards and Technology (2019) Cryptographic Algorithm Validation Program.",
+      "url": "https://csrc.nist.gov/projects/cavp"
+    },
+    {
+      "short_name": "NIST CMVP",
+      "name": "National Institute of Standards and Technology (2019) Cryptographic Module Validation Program.",
+      "url": "https://csrc.nist.gov/projects/cmvp"
+    },
+    {
+      "short_name": "NIST CRYPTO",
+      "name": "National Institute of Standards and Technology (2019) Cryptographic Standards and Guidelines.",
+      "url": "https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines"
+    },
+    {
+      "short_name": "NIST CSF",
+      "name": "National Institute of Standards and Technology (2018) Framework for Improving Critical Infrastructure Cybersecurity, Version 1.1. (National Institute of Standards and Technology, Gaithersburg, MD).",
+      "url": "https://doi.org/10.6028/NIST.CSWP.04162018"
+    },
+    {
+      "short_name": "NIST CUI",
+      "name": "National Institute of Standards and Technology (2019) Special Publication 800-171 Publication and Supporting Resources. ",
+      "url": "https://csrc.nist.gov/publications/detail/sp/800-171/rev-1/final"
+    }
+  ]
+}

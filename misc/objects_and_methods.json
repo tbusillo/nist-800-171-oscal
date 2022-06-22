@@ -1,0 +1,2259 @@
+{
+  "controlMethods": [
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "procedures addressing account management",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "list of active system accounts and the name of the individual associated with each account",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "notifications or records of recently transferred, separated, or terminated employees",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "list of conditions for group and role membership",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "list of recently disabled system accounts along with the name of the individual associated with each account",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "access authorization records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "account management compliance reviews",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "system monitoring records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "list of devices and systems authorized to connect to organizational systems",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "Personnel with account management responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "Organizational processes for managing system accounts",
+      "assessmentMethod": "Test",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "Mechanisms for implementing account management",
+      "assessmentMethod": "Test",
+      "control": "3.1.1"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "procedures addressing access enforcement",
+      "assessmentMethod": "Examine",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "list of approved authorizations including remote access authorizations",
+      "assessmentMethod": "Examine",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "Personnel with access enforcement responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing access control policy",
+      "assessmentMethod": "Test",
+      "control": "3.1.2"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "information flow control policies",
+      "assessmentMethod": "Examine",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "procedures addressing information flow enforcement",
+      "assessmentMethod": "Examine",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "list of information flow authorizations",
+      "assessmentMethod": "Examine",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "system baseline configuration",
+      "assessmentMethod": "Examine",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "System or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing information flow enforcement policy",
+      "assessmentMethod": "Test",
+      "control": "3.1.3"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "procedures addressing divisions of responsibility and separation of duties",
+      "assessmentMethod": "Examine",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "list of divisions of responsibility and separation of duties",
+      "assessmentMethod": "Examine",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "system access authorizations",
+      "assessmentMethod": "Examine",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for defining divisions of responsibility and separation of duties",
+      "assessmentMethod": "Interview",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing separation of duties policy",
+      "assessmentMethod": "Test",
+      "control": "3.1.4"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "procedures addressing account management",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "list of active system accounts and the name of the individual associated with each account",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "list of conditions for group and role membership",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "notifications or records of recently transferred, separated, or terminated employees",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "list of recently disabled system accounts along with the name of the individual associated with each account",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "access authorization records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "account management compliance reviews",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "system monitoring/audit records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "procedures addressing least privilege",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "list of security functions (deployed in hardware, software, and firmware) and security-relevant information for which access is to be explicitly authorized",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "list of system-generated privileged accounts",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "list of system administration personnel",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "Personnel with account management responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "personnel with responsibilities for defining least privileges necessary to accomplish specified tasks",
+      "assessmentMethod": "Interview",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "Organizational processes for managing system accounts",
+      "assessmentMethod": "Test",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "mechanisms for implementing account management",
+      "assessmentMethod": "Test",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "mechanisms implementing least privilege functions",
+      "assessmentMethod": "Test",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "mechanisms prohibiting privileged access to the system",
+      "assessmentMethod": "Test",
+      "control": "3.1.5"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "procedures addressing least privilege",
+      "assessmentMethod": "Examine",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "list of system-generated security functions assigned to system accounts or roles",
+      "assessmentMethod": "Examine",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for defining least privileges necessary to accomplish specified organizational tasks",
+      "assessmentMethod": "Interview",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing least privilege functions",
+      "assessmentMethod": "Test",
+      "control": "3.1.6"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "procedures addressing least privilege",
+      "assessmentMethod": "Examine",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "list of privileged functions and associated user account assignments",
+      "assessmentMethod": "Examine",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for defining least privileges necessary to accomplish specified tasks",
+      "assessmentMethod": "Interview",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing least privilege functions for non-privileged users",
+      "assessmentMethod": "Test",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "mechanisms auditing the execution of privileged functions",
+      "assessmentMethod": "Test",
+      "control": "3.1.7"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "procedures addressing unsuccessful logon attempts",
+      "assessmentMethod": "Examine",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "Personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing access control policy for unsuccessful logon attempts",
+      "assessmentMethod": "Test",
+      "control": "3.1.8"
+    },
+    {
+      "assessmentObject": "Privacy and security policies, procedures addressing system use notification",
+      "assessmentMethod": "Examine",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "documented approval of system use notification messages or banners",
+      "assessmentMethod": "Examine",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "user acknowledgements of notification message or banner",
+      "assessmentMethod": "Examine",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "system use notification messages",
+      "assessmentMethod": "Examine",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "System or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "personnel with responsibility for providing legal advice",
+      "assessmentMethod": "Interview",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing system use notification",
+      "assessmentMethod": "Test",
+      "control": "3.1.9"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "procedures addressing session lock",
+      "assessmentMethod": "Examine",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "procedures addressing identification and authentication",
+      "assessmentMethod": "Examine",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "System or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing access control policy for session lock",
+      "assessmentMethod": "Test",
+      "control": "3.1.10"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "procedures addressing session termination",
+      "assessmentMethod": "Examine",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "list of conditions or trigger events requiring session disconnect",
+      "assessmentMethod": "Examine",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "System or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing user session termination",
+      "assessmentMethod": "Test",
+      "control": "3.1.11"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "procedures addressing remote access implementation and usage (including restrictions)",
+      "assessmentMethod": "Examine",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "configuration management plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "remote access authorizations",
+      "assessmentMethod": "Examine",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for managing remote access connections",
+      "assessmentMethod": "Interview",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "Remote access management capability for the system",
+      "assessmentMethod": "Test",
+      "control": "3.1.12"
+    },
+    {
+      "assessmentObject": "Access control policy",
+      "assessmentMethod": "Examine",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "procedures addressing remote access to the system",
+      "assessmentMethod": "Examine",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "system security plan",
+      "assessmentMethod": "Examine",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "system design documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "system configuration settings and associated documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "cryptographic mechanisms and associated configuration documentation",
+      "assessmentMethod": "Examine",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "system audit logs and records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "System or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "Cryptographic mechanisms protecting remote access sessions",
+      "assessmentMethod": "Test",
+      "control": "3.1.13"
+    },
+    {
+      "assessmentObject": "Access control policy; procedures addressing remote access to the system; system security plan; system design documentation; list of all managed network access control points; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.14"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.14"
+    },
+    {
+      "assessmentObject": "Mechanisms routing all remote accesses through managed network access control points",
+      "assessmentMethod": "Test",
+      "control": "3.1.14"
+    },
+    {
+      "assessmentObject": "Access control policy; procedures addressing remote access to the system; system configuration settings and associated documentation; system security plan; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.15"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.15"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing remote access management",
+      "assessmentMethod": "Test",
+      "control": "3.1.15"
+    },
+    {
+      "assessmentObject": "Access control policy; configuration management plan; procedures addressing wireless access implementation and usage (including restrictions); system security plan; system design documentation; system configuration settings and associated documentation; wireless access authorizations; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.16"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for managing wireless access connections; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.16"
+    },
+    {
+      "assessmentObject": "Wireless access management capability for the system",
+      "assessmentMethod": "Test",
+      "control": "3.1.16"
+    },
+    {
+      "assessmentObject": "Access control policy; system design documentation; procedures addressing wireless implementation and usage (including restrictions); system security plan; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.17"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.1.17"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing wireless access protections to the system",
+      "assessmentMethod": "Test",
+      "control": "3.1.17"
+    },
+    {
+      "assessmentObject": "Access control policy; authorizations for mobile device connections to organizational systems; procedures addressing access control for mobile device usage (including restrictions); system design documentation; configuration management plan; system security plan; system audit logs and records; system configuration settings and associated documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.18"
+    },
+    {
+      "assessmentObject": "Personnel using mobile devices to access organizational systems; system or network administrators; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.18"
+    },
+    {
+      "assessmentObject": "Access control capability authorizing mobile device connections to organizational systems",
+      "assessmentMethod": "Test",
+      "control": "3.1.18"
+    },
+    {
+      "assessmentObject": "Access control policy; procedures addressing access control for mobile devices; system design documentation; system configuration settings and associated documentation; encryption mechanisms and associated configuration documentation; system security plan; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.19"
+    },
+    {
+      "assessmentObject": "Personnel with access control responsibilities for mobile devices; system or network administrators; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.19"
+    },
+    {
+      "assessmentObject": "Encryption mechanisms protecting confidentiality of information on mobile devices",
+      "assessmentMethod": "Test",
+      "control": "3.1.19"
+    },
+    {
+      "assessmentObject": "Access control policy; procedures addressing the use of external systems; terms and conditions for external systems; system security plan; list of applications accessible from external systems; system configuration settings and associated documentation; system connection or processing agreements; account management documents; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.20"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for defining terms and conditions for use of external systems to access organizational systems; system or network administrators; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.20"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing terms and conditions on use of external systems",
+      "assessmentMethod": "Test",
+      "control": "3.1.20"
+    },
+    {
+      "assessmentObject": "Access control policy; procedures addressing the use of external systems; system security plan; system configuration settings and associated documentation; system connection or processing agreements; account management documents; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.21"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for restricting or prohibiting use of organization-controlled storage devices on external systems; system or network administrators; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.21"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing restrictions on use of portable storage devices",
+      "assessmentMethod": "Test",
+      "control": "3.1.21"
+    },
+    {
+      "assessmentObject": "Access control policy; procedures addressing publicly accessible content; system security plan; list of users authorized to post publicly accessible content on organizational systems; training materials and/or records; records of publicly accessible information reviews; records of response to nonpublic information on public websites; system audit logs and records; security awareness training records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.1.22"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for managing publicly accessible information posted on organizational systems; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.1.22"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing management of publicly accessible content",
+      "assessmentMethod": "Test",
+      "control": "3.1.22"
+    },
+    {
+      "assessmentObject": "Security awareness and training policy; procedures addressing security awareness training implementation; relevant codes of federal regulations; security awareness training curriculum; security awareness training materials; system security plan; training records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.2.1"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for security awareness training; personnel with information security responsibilities; personnel composing the general system user community; personnel with responsibilities for role-based awareness training",
+      "assessmentMethod": "Interview",
+      "control": "3.2.1"
+    },
+    {
+      "assessmentObject": "Mechanisms managing security awareness training; mechanisms managing role-based security training",
+      "assessmentMethod": "Test",
+      "control": "3.2.1"
+    },
+    {
+      "assessmentObject": "Security awareness and training policy; procedures addressing security training implementation; codes of federal regulations; security training curriculum; security training materials; system security plan; training records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.2.2"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for role-based security training; personnel with assigned system security roles and responsibilities; personnel with responsibilities for security awareness training; personnel with information security responsibilities; personnel representing the general system user community",
+      "assessmentMethod": "Interview",
+      "control": "3.2.2"
+    },
+    {
+      "assessmentObject": "Mechanisms managing role-based security training; mechanisms managing security awareness training",
+      "assessmentMethod": "Test",
+      "control": "3.2.2"
+    },
+    {
+      "assessmentObject": "Security awareness and training policy; procedures addressing security awareness training implementation; security awareness training curriculum; security awareness training materials; insider threat policy and procedures; system security plan; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.2.3"
+    },
+    {
+      "assessmentObject": "Personnel that participate in security awareness training; personnel with responsibilities for basic security awareness training; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.2.3"
+    },
+    {
+      "assessmentObject": "Mechanisms managing insider threat training",
+      "assessmentMethod": "Test",
+      "control": "3.2.3"
+    },
+    {
+      "assessmentObject": "Audit and accountability policy; procedures addressing auditable events; system security plan; system design documentation; system configuration settings and associated documentation; procedures addressing control of audit records; procedures addressing audit record generation; system audit logs and records; system auditable events; system incident reports; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.3.1"
+    },
+    {
+      "assessmentObject": "Personnel with audit and accountability responsibilities; personnel with information security responsibilities; personnel with audit review, analysis and reporting responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.3.1"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing system audit logging",
+      "assessmentMethod": "Test",
+      "control": "3.3.1"
+    },
+    {
+      "assessmentObject": "Audit and accountability policy; procedures addressing audit records and event types; system security plan; system design documentation; system configuration settings and associated documentation; procedures addressing audit record generation; procedures addressing audit review, analysis, and reporting; reports of audit findings; system audit logs and records; system events; system incident reports; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.3.2"
+    },
+    {
+      "assessmentObject": "Personnel with audit and accountability responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.3.2"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing system audit logging",
+      "assessmentMethod": "Test",
+      "control": "3.3.2"
+    },
+    {
+      "assessmentObject": "Audit and accountability policy; procedures addressing audit records and event types; system security plan; list of organization-defined event types to be logged; reviewed and updated records of logged event types; system audit logs and records; system incident reports; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.3.3"
+    },
+    {
+      "assessmentObject": "Personnel with audit and accountability responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.3.3"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting review and update of logged event types",
+      "assessmentMethod": "Test",
+      "control": "3.3.3"
+    },
+    {
+      "assessmentObject": "Audit and accountability policy; procedures addressing response to audit logging processing failures; system design documentation; system security plan; system configuration settings and associated documentation; list of personnel to be notified in case of an audit logging processing failure; system incident reports; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.3.4"
+    },
+    {
+      "assessmentObject": "Personnel with audit and accountability responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.3.4"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing system response to audit logging processing failures",
+      "assessmentMethod": "Test",
+      "control": "3.3.4"
+    },
+    {
+      "assessmentObject": "Audit and accountability policy; procedures addressing audit record review, analysis, and reporting; system security plan; system design documentation; system configuration settings and associated documentation; procedures addressing investigation of and response to suspicious activities; system audit logs and records across different repositories; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.3.5"
+    },
+    {
+      "assessmentObject": "Personnel with audit record review, analysis, and reporting responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.3.5"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting analysis and correlation of audit records; mechanisms integrating audit review, analysis and reporting",
+      "assessmentMethod": "Test",
+      "control": "3.3.5"
+    },
+    {
+      "assessmentObject": "Audit and accountability policy; procedures addressing audit record reduction and report generation; system design documentation; system security plan; system configuration settings and associated documentation; audit record reduction, review, analysis, and reporting tools; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.3.6"
+    },
+    {
+      "assessmentObject": "Personnel with audit record reduction and report generation responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.3.6"
+    },
+    {
+      "assessmentObject": "Audit record reduction and report generation capability",
+      "assessmentMethod": "Test",
+      "control": "3.3.6"
+    },
+    {
+      "assessmentObject": "Audit and accountability policy; procedures addressing time stamp generation; system design documentation; system security plan; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.3.7"
+    },
+    {
+      "assessmentObject": "Personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.3.7"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing time stamp generation; mechanisms implementing internal information system clock synchronization",
+      "assessmentMethod": "Test",
+      "control": "3.3.7"
+    },
+    {
+      "assessmentObject": "Audit and accountability policy; access control policy and procedures; procedures addressing protection of audit information; system security plan; system design documentation; system configuration settings and associated documentation, system audit logs and records; audit logging tools; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.3.8"
+    },
+    {
+      "assessmentObject": "Personnel with audit and accountability responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.3.8"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing audit information protection",
+      "assessmentMethod": "Test",
+      "control": "3.3.8"
+    },
+    {
+      "assessmentObject": "Audit and accountability policy; access control policy and procedures; procedures addressing protection of audit information; system security plan; system design documentation; system configuration settings and associated documentation; access authorizations; system-generated list of privileged users with access to management of audit logging functionality; access control list; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.3.9"
+    },
+    {
+      "assessmentObject": "Personnel with audit and accountability responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.3.9"
+    },
+    {
+      "assessmentObject": "Mechanisms managing access to audit logging functionality",
+      "assessmentMethod": "Test",
+      "control": "3.3.9"
+    },
+    {
+      "assessmentObject": "Configuration management policy; procedures addressing the baseline configuration of the system; procedures addressing system inventory; system security plan; configuration management plan; system inventory records; inventory review and update records; enterprise architecture documentation; system design documentation; system architecture and configuration documentation; system configuration settings and associated documentation; change control records; system component installation records; system component removal records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.4.1"
+    },
+    {
+      "assessmentObject": "Personnel with configuration management responsibilities; personnel with responsibilities for establishing the system inventory; personnel with responsibilities for updating the system inventory; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.4.1"
+    },
+    {
+      "assessmentObject": "Organizational processes for managing baseline configurations; mechanisms supporting configuration control of the baseline configuration; organizational processes for developing and documenting an inventory of system components; organizational processes for updating inventory of system components; mechanisms supporting or implementing the system inventory; mechanisms implementing updating of the system inventory",
+      "assessmentMethod": "Test",
+      "control": "3.4.1"
+    },
+    {
+      "assessmentObject": "Configuration management policy; baseline configuration; procedures addressing configuration settings for the system; configuration management plan; system security plan; system design documentation; system configuration settings and associated documentation; security configuration checklists; evidence supporting approved deviations from established configuration settings; change control records; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.4.2"
+    },
+    {
+      "assessmentObject": "Personnel with security configuration management responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.4.2"
+    },
+    {
+      "assessmentObject": "Organizational processes for managing configuration settings; mechanisms that implement, monitor, and/or control system configuration settings; mechanisms that identify and/or document deviations from established configuration settings; processes for managing baseline configurations; mechanisms supporting configuration control of baseline configurations",
+      "assessmentMethod": "Test",
+      "control": "3.4.2"
+    },
+    {
+      "assessmentObject": "Configuration management policy; procedures addressing system configuration change control; configuration management plan; system architecture and configuration documentation; system security plan; change control records; system audit logs and records; change control audit and review reports; agenda/minutes from configuration change control oversight meetings; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.4.3"
+    },
+    {
+      "assessmentObject": "Personnel with configuration change control responsibilities; personnel with information security responsibilities; system or network administrators; members of change control board or similar",
+      "assessmentMethod": "Interview",
+      "control": "3.4.3"
+    },
+    {
+      "assessmentObject": "Organizational processes for configuration change control; mechanisms that implement configuration change control",
+      "assessmentMethod": "Test",
+      "control": "3.4.3"
+    },
+    {
+      "assessmentObject": "Configuration management policy; procedures addressing security impact analysis for system changes; configuration management plan; security impact analysis documentation; system security plan; analysis tools and associated outputs; change control records; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.4.4"
+    },
+    {
+      "assessmentObject": "Personnel with responsibility for conducting security impact analysis; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.4.4"
+    },
+    {
+      "assessmentObject": "Organizational processes for security impact analysis",
+      "assessmentMethod": "Test",
+      "control": "3.4.4"
+    },
+    {
+      "assessmentObject": "Configuration management policy; procedures addressing access restrictions for changes to the system; system security plan; configuration management plan; system design documentation; system architecture and configuration documentation; system configuration settings and associated documentation; logical access approvals; physical access approvals; access credentials; change control records; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.4.5"
+    },
+    {
+      "assessmentObject": "Personnel with logical access control responsibilities; personnel with physical access control responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.4.5"
+    },
+    {
+      "assessmentObject": "Organizational processes for managing access restrictions associated with changes to the system; mechanisms supporting, implementing, and enforcing access restrictions associated with changes to the system",
+      "assessmentMethod": "Test",
+      "control": "3.4.5"
+    },
+    {
+      "assessmentObject": "Configuration management policy; configuration management plan; procedures addressing least functionality in the system; system security plan; system design documentation; system configuration settings and associated documentation; security configuration checklists; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.4.6"
+    },
+    {
+      "assessmentObject": "Personnel with security configuration management responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.4.6"
+    },
+    {
+      "assessmentObject": "Organizational processes prohibiting or restricting functions, ports, protocols, or services; mechanisms implementing restrictions or prohibition of functions, ports, protocols, or services",
+      "assessmentMethod": "Test",
+      "control": "3.4.6"
+    },
+    {
+      "assessmentObject": "Configuration management policy; procedures addressing least functionality in the system; configuration management plan; system security plan; system design documentation; security configuration checklists; system configuration settings and associated documentation; specifications for preventing software program execution; documented reviews of programs, functions, ports, protocols, and/or services; change control records; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.4.7"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for reviewing programs, functions, ports, protocols, and services on the system; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.4.7"
+    },
+    {
+      "assessmentObject": "Organizational processes for reviewing and disabling nonessential programs, functions, ports, protocols, or services; mechanisms implementing review and handling of nonessential programs, functions, ports, protocols, or services; organizational processes preventing program execution on the system; organizational processes for software program usage and restrictions; mechanisms supporting or implementing software program usage and restrictions; mechanisms preventing program execution on the system",
+      "assessmentMethod": "Test",
+      "control": "3.4.7"
+    },
+    {
+      "assessmentObject": "Configuration management policy; procedures addressing least functionality in the system; system security plan; configuration management plan; system design documentation; system configuration settings and associated documentation; list of software programs not authorized to execute on the system; list of software programs authorized to execute on the system; security configuration checklists; review and update records associated with list of authorized or unauthorized software programs; change control records; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.4.8"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for identifying software authorized or not authorized to execute on the system; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.4.8"
+    },
+    {
+      "assessmentObject": "Organizational process for identifying, reviewing, and updating programs authorized or not authorized to execute on the system; process for implementing blacklisting or whitelisting; mechanisms supporting or implementing blacklisting or whitelisting",
+      "assessmentMethod": "Test",
+      "control": "3.4.8"
+    },
+    {
+      "assessmentObject": "Configuration management policy; procedures addressing user installed software; configuration management plan; system security plan; system design documentation; system configuration settings and associated documentation; list of rules governing user-installed software; system monitoring records; system audit logs and records; continuous monitoring strategy; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.4.9"
+    },
+    {
+      "assessmentObject": "Personnel with responsibilities for governing user-installed software; personnel operating, using, or maintaining the system; personnel monitoring compliance with user-installed software policy; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.4.9"
+    },
+    {
+      "assessmentObject": "Organizational processes governing user-installed software on the system; mechanisms enforcing rules or methods for governing the installation of software by users; mechanisms monitoring policy compliance",
+      "assessmentMethod": "Test",
+      "control": "3.4.9"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; procedures addressing user identification and authentication; system security plan, system design documentation; system configuration settings and associated documentation; system audit logs and records; list of system accounts; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.1"
+    },
+    {
+      "assessmentObject": "Personnel with system operations responsibilities; personnel with information security responsibilities; system or network administrators; personnel with account management responsibilities; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.5.1"
+    },
+    {
+      "assessmentObject": "Organizational processes for uniquely identifying and authenticating users; mechanisms supporting or implementing identification and authentication capability",
+      "assessmentMethod": "Test",
+      "control": "3.5.1"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; system security plan; procedures addressing authenticator management; procedures addressing user identification and authentication; system design documentation; list of system authenticator types; system configuration settings and associated documentation; change control records associated with managing system authenticators; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.2"
+    },
+    {
+      "assessmentObject": "Personnel with authenticator management responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.5.2"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing authenticator management capability",
+      "assessmentMethod": "Test",
+      "control": "3.5.2"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; procedures addressing user identification and authentication; system security plan; system design documentation; system configuration settings and associated documentation; system audit logs and records; list of system accounts; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.3"
+    },
+    {
+      "assessmentObject": "Personnel with system operations responsibilities; personnel with account management responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.5.3"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing multifactor authentication capability",
+      "assessmentMethod": "Test",
+      "control": "3.5.3"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; procedures addressing user identification and authentication; system security plan; system design documentation; system configuration settings and associated documentation; system audit logs and records; list of privileged system accounts; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.4"
+    },
+    {
+      "assessmentObject": "Personnel with system operations responsibilities; personnel with account management responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.5.4"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing identification and authentication capability or replay resistant authentication mechanisms",
+      "assessmentMethod": "Test",
+      "control": "3.5.4"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; procedures addressing identifier management; procedures addressing account management; system security plan; system design documentation; system configuration settings and associated documentation; list of system accounts; list of identifiers generated from physical access control devices; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.5"
+    },
+    {
+      "assessmentObject": "Personnel with identifier management responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.5.5"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing identifier management",
+      "assessmentMethod": "Test",
+      "control": "3.5.5"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; procedures addressing identifier management; procedures addressing account management; system security plan; system design documentation; system configuration settings and associated documentation; list of system accounts; list of identifiers generated from physical access control devices; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.6"
+    },
+    {
+      "assessmentObject": "Personnel with identifier management responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.5.6"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing identifier management",
+      "assessmentMethod": "Test",
+      "control": "3.5.6"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; password policy; procedures addressing authenticator management; system security plan; system configuration settings and associated documentation; system design documentation; password configurations and associated documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.7"
+    },
+    {
+      "assessmentObject": "Personnel with authenticator management responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.5.7"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing password-based authenticator management capability",
+      "assessmentMethod": "Test",
+      "control": "3.5.7"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; password policy; procedures addressing authenticator management; system security plan; system design documentation; system configuration settings and associated documentation; password configurations and associated documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.8"
+    },
+    {
+      "assessmentObject": "Personnel with authenticator management responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.5.8"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing password-based authenticator management capability",
+      "assessmentMethod": "Test",
+      "control": "3.5.8"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; password policy; procedures addressing authenticator management; system security plan; system configuration settings and associated documentation; system design documentation; password configurations and associated documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.9"
+    },
+    {
+      "assessmentObject": "Personnel with authenticator management responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.5.9"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing password-based authenticator management capability",
+      "assessmentMethod": "Test",
+      "control": "3.5.9"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; password policy; procedures addressing authenticator management; system security plan; system configuration settings and associated documentation; system design documentation; password configurations and associated documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.10"
+    },
+    {
+      "assessmentObject": "Personnel with authenticator management responsibilities; personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.5.10"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing password-based authenticator management capability",
+      "assessmentMethod": "Test",
+      "control": "3.5.10"
+    },
+    {
+      "assessmentObject": "Identification and authentication policy; procedures addressing authenticator feedback; system security plan; system design documentation; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.5.11"
+    },
+    {
+      "assessmentObject": "Personnel with information security responsibilities; system or network administrators; system developers",
+      "assessmentMethod": "Interview",
+      "control": "3.5.11"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing the obscuring of feedback of authentication information during authentication",
+      "assessmentMethod": "Test",
+      "control": "3.5.11"
+    },
+    {
+      "assessmentObject": "Incident response policy; contingency planning policy; procedures addressing incident handling; procedures addressing incident response assistance; incident response plan; contingency plan; system security plan; procedures addressing incident response training; incident response training curriculum; incident response training materials; incident response training records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.6.1"
+    },
+    {
+      "assessmentObject": "Personnel with incident handling responsibilities; personnel with contingency planning responsibilities; personnel with incident response training and operational responsibilities; personnel with incident response assistance and support responsibilities; personnel with access to incident response support and assistance capability; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.6.1"
+    },
+    {
+      "assessmentObject": "Incident-handling capability for the organization; organizational processes for incident response assistance; mechanisms supporting or implementing incident response assistance",
+      "assessmentMethod": "Test",
+      "control": "3.6.1"
+    },
+    {
+      "assessmentObject": "Incident response policy; procedures addressing incident monitoring; incident response records and documentation; procedures addressing incident reporting; incident reporting records and documentation; incident response plan; system security plan; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.6.2"
+    },
+    {
+      "assessmentObject": "Personnel with incident monitoring responsibilities; personnel with incident reporting responsibilities; personnel who have or should have reported incidents; personnel (authorities) to whom incident information is to be reported; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.6.2"
+    },
+    {
+      "assessmentObject": "Incident monitoring capability for the organization; mechanisms supporting or implementing tracking and documenting of system security incidents; organizational processes for incident reporting; mechanisms supporting or implementing incident reporting",
+      "assessmentMethod": "Test",
+      "control": "3.6.2"
+    },
+    {
+      "assessmentObject": "Incident response policy; contingency planning policy; procedures addressing incident response testing; procedures addressing contingency plan testing; incident response testing material; incident response test results; incident response test plan; incident response plan; contingency plan; system security plan; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.6.3"
+    },
+    {
+      "assessmentObject": "Personnel with incident response testing responsibilities; personnel with information security responsibilities; personnel with responsibilities for testing plans related to incident response",
+      "assessmentMethod": "Interview",
+      "control": "3.6.3"
+    },
+    {
+      "assessmentObject": "Mechanisms and processes for incident response",
+      "assessmentMethod": "Test",
+      "control": "3.6.3"
+    },
+    {
+      "assessmentObject": "System maintenance policy; procedures addressing controlled system maintenance; maintenance records; manufacturer or vendor maintenance specifications; equipment sanitization records; media sanitization records; system security plan; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.7.1"
+    },
+    {
+      "assessmentObject": "Personnel with system maintenance responsibilities; personnel with information security responsibilities; personnel responsible for media sanitization; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.7.1"
+    },
+    {
+      "assessmentObject": "Organizational processes for scheduling, performing, documenting, reviewing, approving, and monitoring maintenance and repairs for systems; organizational processes for sanitizing system components; mechanisms supporting or implementing controlled maintenance; mechanisms implementing sanitization of system components",
+      "assessmentMethod": "Test",
+      "control": "3.7.1"
+    },
+    {
+      "assessmentObject": "System maintenance policy; procedures addressing system maintenance tools and media; maintenance records; system maintenance tools and associated documentation; maintenance tool inspection records; system security plan; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.7.2"
+    },
+    {
+      "assessmentObject": "Personnel with system maintenance responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.7.2"
+    },
+    {
+      "assessmentObject": "Organizational processes for approving, controlling, and monitoring maintenance tools; mechanisms supporting or implementing approval, control, and monitoring of maintenance tools; organizational processes for inspecting maintenance tools; mechanisms supporting or implementing inspection of maintenance tools; organizational process for inspecting media for malicious code; mechanisms supporting or implementing inspection of media used for maintenance",
+      "assessmentMethod": "Test",
+      "control": "3.7.2"
+    },
+    {
+      "assessmentObject": "System maintenance policy; procedures addressing controlled system maintenance; maintenance records; manufacturer or vendor maintenance specifications; equipment sanitization records; media sanitization records; system security plan; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.7.3"
+    },
+    {
+      "assessmentObject": "Personnel with system maintenance responsibilities; personnel with information security responsibilities; personnel responsible for media sanitization; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.7.3"
+    },
+    {
+      "assessmentObject": "Organizational processes for scheduling, performing, documenting, reviewing, approving, and monitoring maintenance and repairs for systems; organizational processes for sanitizing system components; mechanisms supporting or implementing controlled maintenance; mechanisms implementing sanitization of system components",
+      "assessmentMethod": "Test",
+      "control": "3.7.3"
+    },
+    {
+      "assessmentObject": "System maintenance policy; procedures addressing system maintenance tools; system maintenance tools and associated documentation; maintenance records; system security plan; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.7.4"
+    },
+    {
+      "assessmentObject": "Personnel with system maintenance responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.7.4"
+    },
+    {
+      "assessmentObject": "Organizational process for inspecting media for malicious code; mechanisms supporting or implementing inspection of media used for maintenance",
+      "assessmentMethod": "Test",
+      "control": "3.7.4"
+    },
+    {
+      "assessmentObject": "System maintenance policy; procedures addressing nonlocal system maintenance; system security plan; system design documentation; system configuration settings and associated documentation; maintenance records; diagnostic records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.7.5"
+    },
+    {
+      "assessmentObject": "Personnel with system maintenance responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.7.5"
+    },
+    {
+      "assessmentObject": "Organizational processes for managing nonlocal maintenance; mechanisms implementing, supporting, and managing nonlocal maintenance; mechanisms for strong authentication of nonlocal maintenance diagnostic sessions; mechanisms for terminating nonlocal maintenance sessions and network connections",
+      "assessmentMethod": "Test",
+      "control": "3.7.5"
+    },
+    {
+      "assessmentObject": "System maintenance policy; procedures addressing maintenance personnel; service provider contracts; service-level agreements; list of authorized personnel; maintenance records; access control records; system security plan; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.7.6"
+    },
+    {
+      "assessmentObject": "Personnel with system maintenance responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.7.6"
+    },
+    {
+      "assessmentObject": "Organizational processes for authorizing and managing maintenance personnel; mechanisms supporting or implementing authorization of maintenance personnel",
+      "assessmentMethod": "Test",
+      "control": "3.7.6"
+    },
+    {
+      "assessmentObject": "System media protection policy; procedures addressing media storage; procedures addressing media access restrictions; access control policy and procedures; physical and environmental protection policy and procedures; system security plan; media storage facilities; access control records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.8.1"
+    },
+    {
+      "assessmentObject": "Personnel with system media protection responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.8.1"
+    },
+    {
+      "assessmentObject": "Organizational processes for restricting information media; mechanisms supporting or implementing media access restrictions",
+      "assessmentMethod": "Test",
+      "control": "3.8.1"
+    },
+    {
+      "assessmentObject": "System media protection policy; procedures addressing media storage; physical and environmental protection policy and procedures; access control policy and procedures; system security plan; system media; designated controlled areas; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.8.2"
+    },
+    {
+      "assessmentObject": "Personnel with system media protection and storage responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.8.2"
+    },
+    {
+      "assessmentObject": "Organizational processes for storing media; mechanisms supporting or implementing secure media storage and media protection",
+      "assessmentMethod": "Test",
+      "control": "3.8.2"
+    },
+    {
+      "assessmentObject": "System media protection policy; procedures addressing media sanitization and disposal; applicable standards and policies addressing media sanitization; system security plan; media sanitization records; system audit logs and records; system design documentation; system configuration settings and associated documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.8.3"
+    },
+    {
+      "assessmentObject": "Personnel with media sanitization responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.8.3"
+    },
+    {
+      "assessmentObject": "Organizational processes for media sanitization; mechanisms supporting or implementing media sanitization",
+      "assessmentMethod": "Test",
+      "control": "3.8.3"
+    },
+    {
+      "assessmentObject": "System media protection policy; procedures addressing media marking; physical and environmental protection policy and procedures; system security plan; list of system media marking security attributes; designated controlled areas; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.8.4"
+    },
+    {
+      "assessmentObject": "Personnel with system media protection and marking responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.8.4"
+    },
+    {
+      "assessmentObject": "Organizational processes for marking information media; mechanisms supporting or implementing media marking",
+      "assessmentMethod": "Test",
+      "control": "3.8.4"
+    },
+    {
+      "assessmentObject": "System media protection policy; procedures addressing media storage; physical and environmental protection policy and procedures; access control policy and procedures; system security plan; system media; designated controlled areas; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.8.5"
+    },
+    {
+      "assessmentObject": "Personnel with system media protection and storage responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.8.5"
+    },
+    {
+      "assessmentObject": "Organizational processes for storing media; mechanisms supporting or implementing media storage and media protection",
+      "assessmentMethod": "Test",
+      "control": "3.8.5"
+    },
+    {
+      "assessmentObject": "System media protection policy; procedures addressing media transport; system design documentation; system security plan; system configuration settings and associated documentation; system media transport records; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.8.6"
+    },
+    {
+      "assessmentObject": "Personnel with system media transport responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.8.6"
+    },
+    {
+      "assessmentObject": "Cryptographic mechanisms protecting information on digital media during transportation outside controlled areas",
+      "assessmentMethod": "Test",
+      "control": "3.8.6"
+    },
+    {
+      "assessmentObject": "System media protection policy; system use policy; procedures addressing media usage restrictions; system security plan; rules of behavior; system design documentation; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.8.7"
+    },
+    {
+      "assessmentObject": "Personnel with system media use responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.8.7"
+    },
+    {
+      "assessmentObject": "Organizational processes for media use; mechanisms restricting or prohibiting use of system media on systems or system components",
+      "assessmentMethod": "Test",
+      "control": "3.8.7"
+    },
+    {
+      "assessmentObject": "System media protection policy; system use policy; procedures addressing media usage restrictions; system security plan; rules of behavior; system configuration settings and associated documentation; system design documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.8.8"
+    },
+    {
+      "assessmentObject": "Personnel with system media use responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.8.8"
+    },
+    {
+      "assessmentObject": "Organizational processes for media use; mechanisms prohibiting use of media on systems or system components",
+      "assessmentMethod": "Test",
+      "control": "3.8.8"
+    },
+    {
+      "assessmentObject": "Procedures addressing system backup; system configuration settings and associated documentation; security plan; backup storage locations; system backup logs or records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.8.9"
+    },
+    {
+      "assessmentObject": "Personnel with system backup responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.8.9"
+    },
+    {
+      "assessmentObject": "Organizational processes for conducting system backups; mechanisms supporting or implementing system backups",
+      "assessmentMethod": "Test",
+      "control": "3.8.9"
+    },
+    {
+      "assessmentObject": "Personnel security policy; procedures addressing personnel screening; records of screened personnel; system security plan; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.9.1"
+    },
+    {
+      "assessmentObject": "Personnel with personnel security responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.9.1"
+    },
+    {
+      "assessmentObject": "Organizational processes for personnel screening",
+      "assessmentMethod": "Test",
+      "control": "3.9.1"
+    },
+    {
+      "assessmentObject": "Personnel security policy; procedures addressing personnel transfer and termination; records of personnel transfer and termination actions; list of system accounts; records of terminated or revoked authenticators and credentials; records of exit interviews; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.9.2"
+    },
+    {
+      "assessmentObject": "Personnel with personnel security responsibilities; personnel with account management responsibilities; system or network administrators; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.9.2"
+    },
+    {
+      "assessmentObject": "Organizational processes for personnel transfer and termination; mechanisms supporting or implementing personnel transfer and termination notifications; mechanisms for disabling system access and revoking authenticators",
+      "assessmentMethod": "Test",
+      "control": "3.9.2"
+    },
+    {
+      "assessmentObject": "Physical and environmental protection policy; procedures addressing physical access authorizations; system security plan; authorized personnel access list; authorization credentials; physical access list reviews; physical access termination records and associated documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.10.1"
+    },
+    {
+      "assessmentObject": "Personnel with physical access authorization responsibilities; personnel with physical access to system facility; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.10.1"
+    },
+    {
+      "assessmentObject": "Organizational processes for physical access authorizations; mechanisms supporting or implementing physical access authorizations",
+      "assessmentMethod": "Test",
+      "control": "3.10.1"
+    },
+    {
+      "assessmentObject": "Physical and environmental protection policy; procedures addressing physical access monitoring; system security plan; physical access logs or records; physical access monitoring records; physical access log reviews; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.10.2"
+    },
+    {
+      "assessmentObject": "Personnel with physical access monitoring responsibilities; personnel with incident response responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.10.2"
+    },
+    {
+      "assessmentObject": "Organizational processes for monitoring physical access; mechanisms supporting or implementing physical access monitoring; mechanisms supporting or implementing the review of physical access logs",
+      "assessmentMethod": "Test",
+      "control": "3.10.2"
+    },
+    {
+      "assessmentObject": "Physical and environmental protection policy; procedures addressing physical access control; system security plan; physical access control logs or records; inventory records of physical access control devices; system entry and exit points; records of key and lock combination changes; storage locations for physical access control devices; physical access control devices; list of security safeguards controlling access to designated publicly accessible areas within facility; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.10.3"
+    },
+    {
+      "assessmentObject": "Personnel with physical access control responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.10.3"
+    },
+    {
+      "assessmentObject": "Organizational processes for physical access control; mechanisms supporting or implementing physical access control; physical access control devices",
+      "assessmentMethod": "Test",
+      "control": "3.10.3"
+    },
+    {
+      "assessmentObject": "Physical and environmental protection policy; procedures addressing physical access control; system security plan; physical access control logs or records; inventory records of physical access control devices; system entry and exit points; records of key and lock combination changes; storage locations for physical access control devices; physical access control devices; list of security safeguards controlling access to designated publicly accessible areas within facility; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.10.4"
+    },
+    {
+      "assessmentObject": "Personnel with physical access control responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.10.4"
+    },
+    {
+      "assessmentObject": "Organizational processes for physical access control; mechanisms supporting or implementing physical access control; physical access control devices",
+      "assessmentMethod": "Test",
+      "control": "3.10.4"
+    },
+    {
+      "assessmentObject": "Physical and environmental protection policy; procedures addressing physical access control; system security plan; physical access control logs or records; inventory records of physical access control devices; system entry and exit points; records of key inventory records of physical access control devices; system entry and exit points; records of key and lock combination changes; storage locations for physical access control devices; physical access control devices; list of security safeguards controlling access to designated publicly accessible areas within facility; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.10.5"
+    },
+    {
+      "assessmentObject": "Personnel with physical access control responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.10.5"
+    },
+    {
+      "assessmentObject": "Organizational processes for physical access control; mechanisms supporting or implementing physical access control; physical access control devices",
+      "assessmentMethod": "Test",
+      "control": "3.10.5"
+    },
+    {
+      "assessmentObject": "Physical and environmental protection policy; procedures addressing alternate work sites for personnel; system security plan; list of safeguards required for alternate work sites; assessments of safeguards at alternate work sites; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.10.6"
+    },
+    {
+      "assessmentObject": "Personnel approving use of alternate work sites; personnel using alternate work sites; personnel assessing controls at alternate work sites; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.10.6"
+    },
+    {
+      "assessmentObject": "Organizational processes for security at alternate work sites; mechanisms supporting alternate work sites; safeguards employed at alternate work sites; means of communications between personnel at alternate work sites and security personnel",
+      "assessmentMethod": "Test",
+      "control": "3.10.6"
+    },
+    {
+      "assessmentObject": "Risk assessment policy; security planning policy and procedures; procedures addressing organizational risk assessments; system security plan; risk assessment; risk assessment results; risk assessment reviews; risk assessment updates; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.11.1"
+    },
+    {
+      "assessmentObject": "Personnel with risk assessment responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.11.1"
+    },
+    {
+      "assessmentObject": "Organizational processes for risk assessment; mechanisms supporting or for conducting, documenting, reviewing, disseminating, and updating the risk assessment",
+      "assessmentMethod": "Test",
+      "control": "3.11.1"
+    },
+    {
+      "assessmentObject": "Risk assessment policy; procedures addressing vulnerability scanning; risk assessment; system security plan; security assessment report; vulnerability scanning tools and associated configuration documentation; vulnerability scanning results; patch and vulnerability management records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.11.2"
+    },
+    {
+      "assessmentObject": "Personnel with risk assessment, security assessment and vulnerability scanning responsibilities; personnel with vulnerability scan analysis and remediation responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.11.2"
+    },
+    {
+      "assessmentObject": "Organizational processes for vulnerability scanning, analysis, remediation, and information sharing; mechanisms supporting or implementing vulnerability scanning, analysis, remediation, and information sharing",
+      "assessmentMethod": "Test",
+      "control": "3.11.2"
+    },
+    {
+      "assessmentObject": "Risk assessment policy; procedures addressing vulnerability scanning; risk assessment; system security plan; security assessment report; vulnerability scanning tools and associated configuration documentation; vulnerability scanning results; patch and vulnerability management records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.11.3"
+    },
+    {
+      "assessmentObject": "Personnel with risk assessment, security assessment and vulnerability scanning responsibilities; personnel with vulnerability scan analysis responsibilities; personnel with vulnerability remediation responsibilities; personnel with information security responsibilities; system or network administrators",
+      "assessmentMethod": "Interview",
+      "control": "3.11.3"
+    },
+    {
+      "assessmentObject": "Organizational processes for vulnerability scanning, analysis, remediation, and information sharing; mechanisms supporting or implementing vulnerability scanning, analysis, remediation, and information sharing",
+      "assessmentMethod": "Test",
+      "control": "3.11.3"
+    },
+    {
+      "assessmentObject": "Security assessment and authorization policy; procedures addressing security assessment planning; procedures addressing security assessments; security assessment plan; system security plan; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.12.1"
+    },
+    {
+      "assessmentObject": "Personnel with security assessment responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.12.1"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting security assessment, security assessment plan development, and security assessment reporting",
+      "assessmentMethod": "Test",
+      "control": "3.12.1"
+    },
+    {
+      "assessmentObject": "Security assessment and authorization policy; procedures addressing plan of action; system security plan; security assessment plan; security assessment report; security assessment evidence; plan of action; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.12.2"
+    },
+    {
+      "assessmentObject": "Personnel with plan of action development and implementation responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.12.2"
+    },
+    {
+      "assessmentObject": "Mechanisms for developing, implementing, and maintaining plan of action",
+      "assessmentMethod": "Test",
+      "control": "3.12.2"
+    },
+    {
+      "assessmentObject": "Security planning policy; organizational procedures addressing system security plan development and implementation; procedures addressing system security plan reviews and updates; enterprise architecture documentation; system security plan; records of system security plan reviews and updates; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.12.3"
+    },
+    {
+      "assessmentObject": "Personnel with security planning and system security plan implementation responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.12.3"
+    },
+    {
+      "assessmentObject": "Organizational processes for system security plan development, review, update, and approval; mechanisms supporting the system security plan",
+      "assessmentMethod": "Test",
+      "control": "3.12.3"
+    },
+    {
+      "assessmentObject": "Security planning policy; procedures addressing system security plan development and implementation; procedures addressing system security plan reviews and updates; enterprise architecture documentation; system security plan; records of system security plan reviews and updates; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.12.4"
+    },
+    {
+      "assessmentObject": "Personnel with security planning and system security plan implementation responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.12.4"
+    },
+    {
+      "assessmentObject": "Organizational processes for system security plan development, review, update, and approval; mechanisms supporting the system security plan",
+      "assessmentMethod": "Test",
+      "control": "3.12.4"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing boundary protection; system security plan; list of key internal boundaries of the system; system design documentation; boundary protection hardware and software; enterprise security architecture documentation; system audit logs and records; system configuration settings and associated documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.13.1"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer; personnel with boundary protection responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.13.1"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing boundary protection capability",
+      "assessmentMethod": "Test",
+      "control": "3.13.1"
+    },
+    {
+      "assessmentObject": "Security planning policy; procedures addressing system security plan development and implementation; procedures addressing system security plan reviews and updates; enterprise architecture documentation; system security plan; records of system security plan reviews and updates; system and communications protection policy; procedures addressing security engineering principles used in the specification, design, development, implementation, and modification of the system; security architecture documentation; security requirements and specifications for the system; system design documentation; system configuration settings and associated documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.13.2"
+    },
+    {
+      "assessmentObject": "Personnel with responsibility for determining information system security requirements; personnel with information system design, development, implementation, and modification responsibilities; personnel with security planning and system security plan implementation responsibilities; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.13.2"
+    },
+    {
+      "assessmentObject": "Organizational processes for system security plan development, review, update, and approval; mechanisms supporting the system security plan; processes for applying security engineering principles in system specification, design, development, implementation, and modification; automated mechanisms supporting the application of security engineering principles in information system specification, design, development, implementation, and modification",
+      "assessmentMethod": "Test",
+      "control": "3.13.2"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing application partitioning; system design documentation; system configuration settings and associated documentation; system security plan; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.13.3"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer",
+      "assessmentMethod": "Interview",
+      "control": "3.13.3"
+    },
+    {
+      "assessmentObject": "Separation of user functionality from system management functionality",
+      "assessmentMethod": "Test",
+      "control": "3.13.3"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing application partitioning; system security plan; system design documentation; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.13.4"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer",
+      "assessmentMethod": "Interview",
+      "control": "3.13.4"
+    },
+    {
+      "assessmentObject": "Separation of user functionality from system management functionality",
+      "assessmentMethod": "Test",
+      "control": "3.13.4"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing boundary protection; system security plan; list of key internal boundaries of the system; system design documentation; boundary protection hardware and software; system configuration settings and associated documentation; enterprise security architecture documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.5"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer; personnel with boundary protection responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.14.5"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing boundary protection capability",
+      "assessmentMethod": "Test",
+      "control": "3.14.5"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing boundary protection; system security plan; system design documentation; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.6"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer; personnel with boundary protection responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.14.6"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing traffic management at managed interfaces",
+      "assessmentMethod": "Test",
+      "control": "3.14.6"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing boundary protection; system security plan; system design documentation; system hardware and software; system architecture; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.7"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer; personnel with boundary protection responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.14.7"
+    },
+    {
+      "assessmentObject": "Mechanisms implementing boundary protection capability; mechanisms supporting or restricting non-remote connections",
+      "assessmentMethod": "Test",
+      "control": "3.14.7"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing transmission confidentiality and integrity; system security plan; system design documentation; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.8"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer",
+      "assessmentMethod": "Interview",
+      "control": "3.14.8"
+    },
+    {
+      "assessmentObject": "Cryptographic mechanisms or mechanisms supporting or implementing transmission confidentiality; organizational processes for defining and implementing alternative physical safeguards",
+      "assessmentMethod": "Test",
+      "control": "3.14.8"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing network disconnect; system design documentation; system security plan; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.9"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer",
+      "assessmentMethod": "Interview",
+      "control": "3.14.9"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing network disconnect capability",
+      "assessmentMethod": "Test",
+      "control": "3.14.9"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing cryptographic key establishment and management; system security plan; system design documentation; cryptographic mechanisms; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.10"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; personnel with responsibilities for cryptographic key establishment and management",
+      "assessmentMethod": "Interview",
+      "control": "3.14.10"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing cryptographic key establishment and management",
+      "assessmentMethod": "Test",
+      "control": "3.14.10"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing cryptographic protection; system security plan; system design documentation; system configuration settings and associated documentation; cryptographic module validation certificates; list of FIPS-validated cryptographic modules; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.11"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer; personnel with responsibilities for cryptographic protection",
+      "assessmentMethod": "Interview",
+      "control": "3.14.11"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing cryptographic protection",
+      "assessmentMethod": "Test",
+      "control": "3.14.11"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing collaborative computing; access control policy and procedures; system security plan; system design documentation; system audit logs and records; system configuration settings and associated documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.12"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer; personnel with responsibilities for managing collaborative computing devices",
+      "assessmentMethod": "Interview",
+      "control": "3.14.12"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing management of remote activation of collaborative computing devices; mechanisms providing an indication of use of collaborative computing devices",
+      "assessmentMethod": "Test",
+      "control": "3.14.12"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing mobile code; mobile code usage restrictions, mobile code implementation policy and procedures; system audit logs and records; system security plan; list of acceptable mobile code and mobile code technologies; list of unacceptable mobile code and mobile technologies; authorization records; system monitoring records; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.13"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; personnel with responsibilities for managing mobile code",
+      "assessmentMethod": "Interview",
+      "control": "3.14.13"
+    },
+    {
+      "assessmentObject": "Organizational process for controlling, authorizing, monitoring, and restricting mobile code; mechanisms supporting or implementing the management of mobile code; mechanisms supporting or implementing the monitoring of mobile code",
+      "assessmentMethod": "Test",
+      "control": "3.14.13"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing VoIP; VoIP usage restrictions; VoIP implementation guidance; system security plan; system design documentation; system audit logs and records; system configuration settings and associated documentation; system monitoring records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.14"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; personnel with responsibilities for managing VoIP",
+      "assessmentMethod": "Interview",
+      "control": "3.14.14"
+    },
+    {
+      "assessmentObject": "Organizational process for authorizing, monitoring, and controlling VoIP; mechanisms supporting or implementing authorizing, monitoring, and controlling VoIP",
+      "assessmentMethod": "Test",
+      "control": "3.14.14"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing session authenticity; system security plan; system design documentation; system configuration settings and associated documentation; system audit logs and records; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.15"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities",
+      "assessmentMethod": "Interview",
+      "control": "3.14.15"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing session authenticity",
+      "assessmentMethod": "Test",
+      "control": "3.14.15"
+    },
+    {
+      "assessmentObject": "System and communications protection policy; procedures addressing protection of information at rest; system security plan; system design documentation; list of information at rest requiring confidentiality protections; system configuration settings and associated documentation; cryptographic mechanisms and associated configuration documentation; other relevant documents or records",
+      "assessmentMethod": "Examine",
+      "control": "3.14.16"
+    },
+    {
+      "assessmentObject": "System or network administrators; personnel with information security responsibilities; system developer",
+      "assessmentMethod": "Interview",
+      "control": "3.14.16"
+    },
+    {
+      "assessmentObject": "Mechanisms supporting or implementing confidentiality protections for information at rest",
+      "assessmentMethod": "Test",
+      "control": "3.14.16"
+    }
+  ]
+}
