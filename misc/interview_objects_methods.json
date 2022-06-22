@@ -1,0 +1,362 @@
+[
+  {
+    "assessmentObject": "Personnel with account management responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "System or network administrators",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with information security responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with access enforcement responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "System developers",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for defining divisions of responsibility and separation of duties",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for defining least privileges necessary to accomplish specified tasks",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for defining least privileges necessary to accomplish specified organizational tasks",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibility for providing legal advice",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing remote access connections",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing wireless access connections",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel using mobile devices to access organizational systems",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with access control responsibilities for mobile devices",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for defining terms and conditions for use of external systems to access organizational systems",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for restricting or prohibiting use of organization-controlled storage devices on external systems",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing publicly accessible information posted on organizational systems",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for security awareness training",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel composing the general system user community",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for role-based awareness training",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for role-based security training",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with assigned system security roles and responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel representing the general system user community",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel that participate in security awareness training",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for basic security awareness training",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with audit and accountability responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with audit review, analysis and reporting responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with audit record review, analysis, and reporting responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with audit record reduction and report generation responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with configuration management responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for establishing the system inventory",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for updating the system inventory",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with security configuration management responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with configuration change control responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Members of change control board or similar",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibility for conducting security impact analysis",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with logical access control responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with physical access control responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for reviewing programs, functions, ports, protocols, and services on the system",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for identifying software authorized or not authorized to execute on the system",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for governing user-installed software",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel operating, using, or maintaining the system",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel monitoring compliance with user-installed software policy",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system operations responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with authenticator management responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with identifier management responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident handling responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with contingency planning responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident response training and operational responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident response assistance and support responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with access to incident response support and assistance capability",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident monitoring responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident reporting responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel who have or should have reported incidents",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel (authorities) to whom incident information is to be reported",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident response testing responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for testing plans related to incident response",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system maintenance responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel responsible for media sanitization",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system media protection responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system media protection and storage responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with media sanitization responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system media protection and marking responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system media transport responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system media use responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with system backup responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with personnel security responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with physical access authorization responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with physical access to system facility",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with physical access monitoring responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with incident response responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel approving use of alternate work sites",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel using alternate work sites",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel assessing controls at alternate work sites",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with risk assessment responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with risk assessment, security assessment and vulnerability scanning responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with vulnerability scan analysis and remediation responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with vulnerability scan analysis responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with vulnerability remediation responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with security assessment responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with plan of action development and implementation responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with security planning and system security plan implementation responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "System developer",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with boundary protection responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibility for determining information system security requirements",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with information system design, development, implementation, and modification responsibilities",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for cryptographic key establishment and management",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for cryptographic protection",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing collaborative computing devices",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing mobile code",
+    "assessmentMethod": "Interview"
+  },
+  {
+    "assessmentObject": "Personnel with responsibilities for managing voip",
+    "assessmentMethod": "Interview"
+  }
+]
